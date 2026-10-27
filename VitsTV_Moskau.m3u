@@ -1,0 +1,793 @@
+#EXTM3U
+#EXTINF:-1 group-title="Moskau",Театр
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/teatr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=teatr
+#EXTINF:-1 group-title="Moskau",Мужской
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/muzhskoy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=muzhskoj
+#EXTINF:-1 group-title="Moskau",В мире животных
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/v-mire-zhivotnyh/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=v-mire-zhivotnykh
+#EXTINF:-1 group-title="Moskau",Т24
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/t24/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=24-tekhno
+#EXTINF:-1 group-title="Moskau",Первый Космический
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/pervyy-kosmicheskiy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=pervyj-kosmicheskij
+#EXTINF:-1 group-title="Moskau",Моя стихия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/moya-stikhiya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=moya-stikhiya
+#EXTINF:-1 group-title="Moskau",Оружие
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/oruzhie/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream7.php?id=oruzhie
+#EXTINF:-1 group-title="Moskau",Приключения
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/priklyucheniya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=priklyucheniya-hd
+#EXTINF:-1 group-title="Moskau",History2
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/history2-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=history-2
+#EXTINF:-1 group-title="Moskau",History
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/history-channel-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=history-channel
+#EXTINF:-1 group-title="Moskau",MTV Russia
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mtv-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=mtv-live
+#EXTINF:-1 group-title="Moskau",Bridge TV Deluxe
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bridge-tv-deluxe/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/15/Bridge_TV_Deluxe/index.m3u8
+#EXTINF:-1 group-title="Moskau",Bridge TV Classic
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bridge-tv-classic/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/272/index.m3u8
+#EXTINF:-1 group-title="Moskau",Bridge TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bridge-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=bridge-tv
+#EXTINF:-1 group-title="Moskau",Музыка Юга
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/3853054647979?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd266.okcdn.ru/hls/2870525561515.m3u8/sig/Fw8qUTJEdbU/expires/1793194126693/srcIp/93.133.85.5/urls/95.163.35.74/clientType/0/srcAg/CHROME/mid/3853054647979/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Kavkaz Music
+#EXTVLCOPT:http-referrer=https://vk.com/video_ext.php?oid=-157301156&id=456241063&hd=2&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vkvsd167.okcdn.ru/cmaf/4391340804691/sig/86CXJRUIkeU/expires/1793194053091/srcIp/93.133.85.5/urls/185.226.55.117/clientType/13/srcAg/CHROME/mid/6252869397331/get/hls_6252869397331.EHVX5Bnpc2s.m3u8
+#EXTINF:-1 group-title="Moskau",Музыка Кино International
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/muzyka-kino-international/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Moskau",Новое Радио
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/novoe-radio/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Страна FM
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/strana-fm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Радио Шансон
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/418029772340?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd248.okcdn.ru/hls/363447061044.m3u8/sig/jge8AZLnDeo/expires/1793194126775/srcIp/93.133.85.5/urls/185.180.203.113/clientType/0/srcAg/CHROME/mid/418029772340/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Авторадио
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/13180506?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd127.okcdn.ru/hls/85229701722.m3u8/sig/IYtOOj-fB0w/expires/1793194127839/srcIp/93.133.85.5/urls/185.180.203.112/clientType/0/srcAg/CHROME/mid/13180506/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Шансон ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/shanson-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Song TV Russland
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/song-tv-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",ТНТ Music
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/1488951909894?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd167.okcdn.ru/hls/483975170566.m3u8/sig/0CU0GUhvQ8w/expires/1793194127862/srcIp/93.133.85.5/urls/185.226.55.118/clientType/0/srcAg/CHROME/mid/1488951909894/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Рыжий
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ryzhiy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1407/index.m3u8
+#EXTINF:-1 group-title="Moskau",Детский мир
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/detskiy-mir/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://fl1003.bozztv.com/ushba80/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Том и Джерри
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/2816146606841?nochat=1&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vd524.okcdn.ru/video.m3u8?cmd=videoPlayerCdn&expires=1793194068216&srcIp=93.133.85.5&pr=10&srcAg=CHROME&ch=1676822812&ms=185.226.55.34&type=2&sig=mI3uPCb_pPE&ct=8&urls=185.180.203.78&clientType=0&zs=43&id=1775893809913
+#EXTINF:-1 group-title="Moskau",Детское кино International
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/detskoe-kino-international/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://kino-1.catcast.tv/content/40426/index.m3u8
+#EXTINF:-1 group-title="Moskau",Советские мультфильмы
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/sovetskie-multfilmy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=sovetskie-multfilmy
+#EXTINF:-1 group-title="Moskau",TiJi
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tiji/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1441/index.m3u8
+#EXTINF:-1 group-title="Moskau",Nickelodeon Russland
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nickelodeon-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1500/index.m3u8
+#EXTINF:-1 group-title="Moskau",Солнце
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/solntse/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Конный Мир
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/konnyj-mir/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://hnc-free-viewlift.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Футбол 3
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-football-3/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/185/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Футбол 2
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-football-2/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/142/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Футбол 1
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-football-1/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/130/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч Премьер
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-premier/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/193/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Игра
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-igra/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/188/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Боец
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-boets/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/112/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч!Арена
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-arena/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/163/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч! Страна
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-strana/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/143/index.m3u8
+#EXTINF:-1 group-title="Moskau",Бог Благ ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bog-blag-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://glorystarplus.tv/BogBlagTV/index.m3u8
+#EXTINF:-1 group-title="Moskau",Три Ангела
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tri-angela/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Moskau",Благая Весть
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/7548217794191?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd93.okcdn.ru/hls/6443252124303.m3u8/sig/b5s5iSpWySk/expires/1793194140721/srcIp/93.133.85.5/urls/176.112.172.109/clientType/0/srcAg/CHROME/mid/7548217794191/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",ТБН
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tbn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",7 TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/7tv-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1 group-title="Moskau",Дикий
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/dikiy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=dikij
+#EXTINF:-1 group-title="Moskau",Москва 24
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/216342154?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd242.okcdn.ru/hls/102930975370.m3u8/sig/EQMLW0WYLJU/expires/1793194141363/srcIp/93.133.85.5/urls/185.180.203.87/clientType/0/srcAg/CHROME/mid/216342154/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Россия Культура
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russia-kultura/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1048/index.m3u8
+#EXTINF:-1 group-title="Moskau",Россия РТР
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russia-rtr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 group-title="Moskau",Россия 24
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russia-24/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1021/index.m3u8
+#EXTINF:-1 group-title="Moskau",Авто 24
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/auto24/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1430/index.m3u8
+#EXTINF:-1 group-title="Moskau",Мир Сериала
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mir-seriala/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1235/index.m3u8
+#EXTINF:-1 group-title="Moskau",Классика кино
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/12715185872555?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd106.okcdn.ru/hls/12711424625323.m3u8/sig/ESBvz1HZ3t4/expires/1793194144042/srcIp/93.133.85.5/urls/95.163.35.72/clientType/0/srcAg/CHROME/mid/12715185872555/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Кино и Жизнь
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/7496346312218?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd265.okcdn.ru/hls/6915591244314.m3u8/sig/Yct1tUjBxFY/expires/1793194144201/srcIp/93.133.85.5/urls/178.237.23.118/clientType/0/srcAg/CHROME/mid/7496346312218/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",CineMan Marvel
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/cineman-marvel/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/354/index.m3u8
+#EXTINF:-1 group-title="Moskau",Pro100TV
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/12715185872555?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd126.okcdn.ru/hls/12711424625323.m3u8/sig/3dJCl3OinUE/expires/1793194145185/srcIp/93.133.85.5/urls/185.226.55.118/clientType/0/srcAg/CHROME/mid/12715185872555/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Тномер
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tnomer/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.vits.tv/streams/stream4.php?cat=razvlekatelnye&id=tnomer
+#EXTINF:-1 group-title="Moskau",MB TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mb-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 group-title="Moskau",Индийское кино
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/indiyskoe-kino/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/104/index.m3u8
+#EXTINF:-1 group-title="Moskau",СССР ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/sssr-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Moskau",Любимые фильмы
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/lyubimye-filmy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
+#EXTINF:-1 group-title="Moskau",Советское кино
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/10497024859826?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd80.okcdn.ru/hls/9225665841842.m3u8/sig/ju1PoGc2Ai0/expires/1793194147823/srcIp/93.133.85.5/urls/185.226.55.87/clientType/0/srcAg/CHROME/mid/10497024859826/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Мистер Бин
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mister-bin/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://fl1003.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Moskau",TV XXI
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tv-xxi/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/22/152/index.m3u8
+#EXTINF:-1 group-title="Moskau",Ужас ТВ
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/16111690325624?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd495.okcdn.ru/hls/17610204646008.m3u8/sig/Zwk7yj602ss/expires/1793194151262/srcIp/93.133.85.5/urls/176.112.172.47/clientType/0/srcAg/CHROME/mid/16111690325624/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Кошмар HD
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/16111690325624?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd492.okcdn.ru/hls/17610204646008.m3u8/sig/4Azzd4o7tO8/expires/1793194152322/srcIp/93.133.85.5/urls/178.237.23.59/clientType/0/srcAg/CHROME/mid/16111690325624/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",FilmBox Russia
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/filmbox-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=filmbox
+#EXTINF:-1 group-title="Moskau",Кинодром
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kinodrom/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3391
+#EXTINF:-1 group-title="Moskau",Кинохит
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kinohit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1055/index.m3u8
+#EXTINF:-1 group-title="Moskau",Иллюзион Плюс
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/illyuzion-plus/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000004582&expires=1793108497&token=96e7d75e9d750ee80c37529af9fc6c3b0c14cbdbd11e8be9e6233e21594b2d8b
+#EXTINF:-1 group-title="Moskau",Кинокомедия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kinokomediya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/265/index.m3u8
+#EXTINF:-1 group-title="Moskau",Кино ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kino-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/221/index.m3u8
+#EXTINF:-1 group-title="Moskau",Бокс ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/boks-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/154/index.m3u8
+#EXTINF:-1 group-title="Moskau",Матч ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/match-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
+#EXTINF:-1 group-title="Moskau",HITV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/hitv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 group-title="Moskau",DanceHits80
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/dancehits80/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/29/index.m3u8
+#EXTINF:-1 group-title="Moskau",О2ТВ
+#EXTVLCOPT:http-referrer=https://vk.com/video_ext.php?oid=-57318109&id=456240298&hash=f9b9886fb93a399c&hd=2&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vkvsd194.okcdn.ru/cmaf/983280978566/sig/GSkuc6NXM7E/expires/1793194073791/srcIp/93.133.85.5/urls/95.163.35.55/clientType/13/srcAg/CHROME/mid/1952010414982/get/hls_1952010414982.aq883V2id3A.m3u8
+#EXTINF:-1 group-title="Moskau",Суббота!
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/6507204124331?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd273.okcdn.ru/hls/5397683899051.m3u8/sig/5bky9zxvFDI/expires/1793194155113/srcIp/93.133.85.5/urls/185.226.55.73/clientType/0/srcAg/CHROME/mid/6507204124331/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",360° Новости
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/360-novosti/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Телеканал 360°
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/telekanal-360/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Вместе-РФ
+#EXTVLCOPT:http-referrer=https://vk.com/video_ext.php?oid=-49303888&id=456250868&hash=a0dc299c7c880b7e&hd=2&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vkvsd209.okcdn.ru/cmaf/4385020774971/sig/0kSjKisUeXs/expires/1793194107212/srcIp/93.133.85.5/urls/185.226.55.70/clientType/13/srcAg/CHROME/mid/5191696329531/get/hls_5191696329531.o0NW_rjqsl4.m3u8
+#EXTINF:-1 group-title="Moskau",Красная Линия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/krasnaya-liniya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",РБК
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/rbk/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://f78lz4fal0.a.trbcdn.net/cdnvideo/rbctv.m3u8
+#EXTINF:-1 group-title="Moskau",ОТР
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/5880800026112?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd286.okcdn.ru/hls/2837282490880.m3u8/sig/RUUFkI3dVkI/expires/1793194155703/srcIp/93.133.85.5/urls/185.226.55.120/clientType/0/srcAg/CHROME/mid/5880800026112/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Пятница
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/9313862491766?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd284.okcdn.ru/hls/7937441663606.m3u8/sig/EER4pdIsmXs/expires/1793194155999/srcIp/93.133.85.5/urls/185.180.203.108/clientType/0/srcAg/CHROME/mid/9313862491766/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Домашний
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/domashniy/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
+#EXTINF:-1 group-title="Moskau",Че!
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/che/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/121/index.m3u8
+#EXTINF:-1 group-title="Moskau",ТВ-3
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/9344408428150?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd495.okcdn.ru/hls/7983656733302.m3u8/sig/HyTnRFYe1MQ/expires/1793194157188/srcIp/93.133.85.5/urls/178.237.23.118/clientType/0/srcAg/CHROME/mid/9344408428150/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",ТВЦ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tvc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Мир 24
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/73364?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd254.okcdn.ru/hls/72220740244.m3u8/sig/ZHU9WDh0uRI/expires/1793194158621/srcIp/93.133.85.5/urls/95.163.35.103/clientType/0/srcAg/CHROME/mid/73364/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Мир
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/10050368183868?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd287.okcdn.ru/hls/8127221729852.m3u8/sig/RjYXGHJWvN8/expires/1793194158838/srcIp/93.133.85.5/urls/185.226.55.70/clientType/0/srcAg/CHROME/mid/10050368183868/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",НТВ Право
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ntv-pravo/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",НТВ Стиль
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ntv-style/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",НТВ Сериал
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ntv-serial/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Звезда Плюс
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/3352886255143?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vd640.okcdn.ru/video.m3u8?cmd=videoPlayerCdn&expires=1793194113411&srcIp=93.133.85.5&pr=30&srcAg=CHROME&ch=1859034457&ms=185.180.203.37&type=2&sig=V4Kc_eyhHV8&ct=8&urls=178.237.23.86&clientType=0&zs=43&id=2260619823655
+#EXTINF:-1 group-title="Moskau",ТЕО-ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/teo-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Ники ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/niki-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Просвещение
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/prosveschenie/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Moskau",Мособр ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mosobr-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/27/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Moskau",Большая Азия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bolshaya-aziya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Калейдоскоп ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kaleydoskop-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",8 Канал Россия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/8kanal-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 group-title="Moskau",НСТ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nst/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.vits.tv/streams/stream2.php?id=000000078&expires=1793111316&token=144a70c9c090da2904857609de82c32dc557212b8b667359d576bb0d084cb46d
+#EXTINF:-1 group-title="Moskau",РЖД ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/rzhd-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/ru-tv/rzd-tv/index.m3u8
+#EXTINF:-1 group-title="Moskau",Эхо-ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/eho-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",ЛДПР ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ldpr-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/25/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",EuroNews Россия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/euronews-russia/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000025&expires=1793111317&token=31dd3672e010a79c07e915ba3b35cb2efd5c1dae408d28ea30f5517b9f01d6e8
+#EXTINF:-1 group-title="Moskau",viju Nature
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/viju-nature/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=viasat-nature
+#EXTINF:-1 group-title="Moskau",viju Explore
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/viju-explore/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000004157&expires=1793111318&token=51eac7246c399dd1379e251be61907e11e3d5350515aa1663ad7a9862b2a2222
+#EXTINF:-1 group-title="Moskau",viju History
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/viju-history/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000005528&expires=1793111319&token=354f29876f1b6e4a717ac2a8741f7c62acb27b85a199f4304c7247608be4179d
+#EXTINF:-1 group-title="Moskau",National Geographic Wild
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nat-geo-wild/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.vits.tv/streams/stream2.php?id=000004474&expires=1793111319&token=c3137782e48bd9413926a094ef25e5d06f7019dc73d92f54b35b03f86fb7fe0d
+#EXTINF:-1 group-title="Moskau",National Geographic
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/national-geographic/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.vits.tv/streams/stream2.php?id=000000034&expires=1793111319&token=1a9be1b49f001d154e8615c6774796d69170a2ec5f287cfe56d5d21027e26112
+#EXTINF:-1 group-title="Moskau",Моя Планета
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/moya-planeta/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1247/index.m3u8
+#EXTINF:-1 group-title="Moskau",Победа
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/15075840368299?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd103.okcdn.ru/hls/17099277929131.m3u8/sig/9H85gadLhes/expires/1793194178013/srcIp/93.133.85.5/urls/185.180.203.58/clientType/0/srcAg/CHROME/mid/15075840368299/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Ю
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/2961812233904?nochat=1&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd233.okcdn.ru/hls/1286158092976.m3u8/sig/MF0NBsGlfxs/expires/1793194178185/srcIp/93.133.85.5/urls/176.112.172.106/clientType/0/srcAg/CHROME/mid/2961812233904/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",RU.TV
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/230273326594?nochat=1&autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd79.okcdn.ru/hls/229927553538.m3u8/sig/7FqCyzOo2q8/expires/1793194179159/srcIp/93.133.85.5/urls/178.237.23.60/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Europa Plus TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/europa-plus-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/22/184/index.m3u8
+#EXTINF:-1 group-title="Moskau",Смайлик ТВ
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/2904875671059?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd174.okcdn.ru/hls/1244982217235.m3u8/sig/upPRdGrW7KY/expires/1793194128613/srcIp/93.133.85.5/urls/95.163.35.74/clientType/0/srcAg/CHROME/mid/2904875671059/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Детский
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/detsky/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1033/index.m3u8
+#EXTINF:-1 group-title="Moskau",Карусель
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/karusel/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1034/index.m3u8
+#EXTINF:-1 group-title="Moskau",Fashion TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/fashion-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1053/index.m3u8
+#EXTINF:-1 group-title="Moskau",LUXURY
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/luxury/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://s1.tv-nano.com/Luxury_rec/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",FoodTime
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/foodtime/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=foodtime
+#EXTINF:-1 group-title="Moskau",Food Network
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/food-network/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/298/index.m3u8
+#EXTINF:-1 group-title="Moskau",Еда
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/eda-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000588&expires=1793111325&token=9bdbe59060a2605423ab125bdba3e1764d13dfdc313b4d54497830f0f7b12925
+#EXTINF:-1 group-title="Moskau",Радость Моя
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/radost-moya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Надежда
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nadezhda/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Спас ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/spas-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",FX Life
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/fx-life/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream7.php?id=telekanal-fx
+#EXTINF:-1 group-title="Moskau",Cinema Classic TV
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/cinema-classic-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000239&expires=1793111326&token=2a42b942b3418637d1139350f10197672fa932a9677fe5df2dbba7c40416a8ec
+#EXTINF:-1 group-title="Moskau",BACKUS TV Dark
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/9287921114742?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd177.okcdn.ru/hls/7900013267574.m3u8/sig/vJaVVN_yLto/expires/1793194180902/srcIp/93.133.85.5/urls/95.163.35.77/clientType/0/srcAg/CHROME/mid/9287921114742/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",BACKUS TV
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/15162247749298?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd271.okcdn.ru/hls/16558291946162.m3u8/sig/wqRGJtAIqxI/expires/1793194182025/srcIp/93.133.85.5/urls/95.163.35.101/clientType/0/srcAg/CHROME/mid/15162247749298/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Видеокассета
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/9998886575697?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd131.okcdn.ru/hls/7778492090961.m3u8/sig/XtCtfV9AJNc/expires/1793194182708/srcIp/93.133.85.5/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/9998886575697/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Русский Детектив
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russkij-detektiv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=russkij-illyuzion
+#EXTINF:-1 group-title="Moskau",Русский Иллюзион
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russkij-illuzion/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=russkij-illyuzion
+#EXTINF:-1 group-title="Moskau",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/mosfilm-zolotaya-kollektsiya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=mosfilm-zolotaya-kollektsiya
+#EXTINF:-1 group-title="Moskau",Кино 1 International
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kino-1-international/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Moskau",Bollywood HD
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bollywood-hd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1444/index.m3u8
+#EXTINF:-1 group-title="Moskau",Дом кино Премиум
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/domkino-premium/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000002943&expires=1793111331&token=394474cd8c8475c6a53e703c444626a98362b033a26c231678f0f4289a1f24d9
+#EXTINF:-1 group-title="Moskau",Дом кино
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/dom-kino/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1054/index.m3u8
+#EXTINF:-1 group-title="Moskau",.sci-fi
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/sci-fi/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000134&expires=1793111331&token=81dd7e2aee357577dfe4d0956f43f63ed95c912096f412bd92cdb92028c348d6
+#EXTINF:-1 group-title="Moskau",.black
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/black/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000520&expires=1793109850&token=dd547f831da30a18caac3a6edbf0cc4b62b9c6774d002deeb0494858eaf43655
+#EXTINF:-1 group-title="Moskau",.red
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/red/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=set
+#EXTINF:-1 group-title="Moskau",START Air
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/start-air/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream7.php?id=start-air
+#EXTINF:-1 group-title="Moskau",Amedia Premium
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/amedia-premium/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000709&expires=1793111334&token=781f169557161d55436205c3c8252e998c2c2f9214f91e7eb282bb8b327ac713
+#EXTINF:-1 group-title="Moskau",Amedia Hit
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/amedia-hit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001662&expires=1793111334&token=1c8cde88a05651733a54a96efd79c9cb66894b15e4709523292d7c22523eaff1
+#EXTINF:-1 group-title="Moskau",Amedia 2
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/amedia-2/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000351&expires=1793111334&token=22272f5bc29072cac644064d7c0e2ebdf370499becc741941f0de4dfc9c79e98
+#EXTINF:-1 group-title="Moskau",Amedia 1
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/amedia-1/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000710&expires=1793111335&token=7b599a737f455f8be5af78c574a40f9e152e7c3e1da72b3a9bf9fef544b4f417
+#EXTINF:-1 group-title="Moskau",Точка отрыва
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tochka-otryva/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1031/index.m3u8
+#EXTINF:-1 group-title="Moskau",Наша Тема
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nasha-tema/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:-1 group-title="Moskau",Открытый мир
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/otkrytyj-mir/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Moskau",Перпетуум Мобиле
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/perpetuum-mobile/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Глазами туриста
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/glazami-turista/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001414&expires=1793111337&token=d0b2bb53f89661b15a148e89c834c7ce405f079552d6ed7af97231cf8df95e63
+#EXTINF:-1 group-title="Moskau",Про Бизнес
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/pro-biznes/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",TV BRICS
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/tv-briks/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Океан HD
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/okean-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=ocean-tv
+#EXTINF:-1 group-title="Moskau",Тайны Галактики
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/galaxy-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000332&expires=1793111337&token=2baa132020fc0451e3217e045971025a5bc3cf2478afc0b8c2deaa0587e78b79
+#EXTINF:-1 group-title="Moskau",Animal Planet (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/animal-planet-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000216&expires=1793111337&token=62ea0482f3513ae6ddc8f385844224b0c9b8eabe3432b29bac76952dea147924
+#EXTINF:-1 group-title="Moskau",Investigation Discovery (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/investigation-discovery-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=id-xtra
+#EXTINF:-1 group-title="Moskau",Discovery Science (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/discovery-science-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001496&expires=1793111339&token=d6aaab51bdb1bbc4d9d164ed784d9592ba32821174826cb47b0dda5734410727
+#EXTINF:-1 group-title="Moskau",Discovery Channel (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/discovery-channel-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001496&expires=1793111339&token=d6aaab51bdb1bbc4d9d164ed784d9592ba32821174826cb47b0dda5734410727
+#EXTINF:-1 group-title="Moskau",Da Vinci (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/da-vinci-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/238/index.m3u8
+#EXTINF:-1 group-title="Moskau",TOP SECRET (Совершенно Секретно)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/top-secret/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/media/live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
+#EXTINF:-1 group-title="Moskau",Нано
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nano/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://s1.tv-nano.com/Nano_rec/index.fmp4.m3u8
+#EXTINF:-1 group-title="Moskau",Russian Travel Guide
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/russian-travel-guide/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/20/164/index.m3u8
+#EXTINF:-1 group-title="Moskau",Рыболов
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/rybolov/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000003174&expires=1793111340&token=bbc6cf0523fd330991bac9d27ebb1f55966940ba5bcc15bd8e3e59e2e58364b0
+#EXTINF:-1 group-title="Moskau",365 дней ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/365-dney-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Moskau",Охота и рыбалка
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ohota-i-rybalka/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.vits.tv/streams/stream2.php?id=000002510&expires=1793111341&token=42b87ed81c93ca983be8a77177ce0d2f0ce77175f2e136211d694658481b59b3
+#EXTINF:-1 group-title="Moskau",Охотник и рыболов
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/404041965268?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd181.okcdn.ru/hls/356234103508.m3u8/sig/HWY7qJ0F4U8/expires/1793194185943/srcIp/93.133.85.5/urls/185.226.55.74/clientType/0/srcAg/CHROME/mid/404041965268/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Загородный
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/4006284697300?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd244.okcdn.ru/hls/2874641484500.m3u8/sig/SqjvfVGD4ww/expires/1793194186471/srcIp/93.133.85.5/urls/185.180.203.113/clientType/0/srcAg/CHROME/mid/4006284697300/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Дума ТВ
+#EXTVLCOPT:http-referrer=https://vk.com/video_ext.php?oid=-160662967&id=456253518&hd=2&autoplay=1&js_api=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vkvsd205.okcdn.ru/cmaf/4760379066917/sig/5jls1zzhpE8/expires/1793194096757/srcIp/93.133.85.5/urls/185.180.203.109/clientType/13/srcAg/CHROME/mid/6195027127077/get/hls_6195027127077.ArF5SiP2pPo.m3u8
+#EXTINF:-1 group-title="Moskau",Москва FM
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/5010773122600?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd102.okcdn.ru/hls/3648348031528.m3u8/sig/bKF7byX265k/expires/1793194187242/srcIp/93.133.85.5/urls/185.180.203.52/clientType/0/srcAg/CHROME/mid/5010773122600/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",НТВ Хит
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/ntv-hit/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/hls/cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="Moskau",CGTN Русский
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/16618338065926?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd118.okcdn.ru/hls/18957449300486.m3u8/sig/Dbmiq8UWGis/expires/1793194190135/srcIp/93.133.85.5/urls/178.237.23.89/clientType/0/srcAg/CHROME/mid/16618338065926/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Каббала ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kabbala-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",ЛАДА
+#EXTVLCOPT:http-referrer=https://kinescope.io/embed/aaBTZp9k2JbD1yuM6vxtZp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/72bdd687-a91c-417a-ae1a-8e2f68a03cb2/master.m3u8
+#EXTINF:-1 group-title="Moskau",Китай ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/kitay-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://amvdu0novnt.a.trbcdn.net/livemaster/75pcv_slwd3z4c91.smil/playlist.m3u8
+#EXTINF:-1 group-title="Moskau",Знание.ТВ
+#EXTVLCOPT:http-referrer=https://ok.ru/videoembed/7992906555024?autoplay=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vsd286.okcdn.ru/hls/5822630267536.m3u8/sig/UkXH9clDTcs/expires/1793194141134/srcIp/93.133.85.5/urls/176.112.172.96/clientType/0/srcAg/CHROME/mid/7992906555024/video.m3u8?p
+#EXTINF:-1 group-title="Moskau",Вопросы и ответы
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/voprosy-i-otvety/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1429/index.m3u8
+#EXTINF:-1 group-title="Moskau",Усадьба
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/usadba/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1427/index.m3u8
+#EXTINF:-1 group-title="Moskau",Телепутешествия
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/teleputeshestviya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/28/h0c5Eyuek0CppzJQmzPiyAsK9mjR21akFPz83QYGWp0zp6dXZwy0kI8VMPt01PMf7uScNqclJTYSjqjZ2rFuwQ/index.m3u8
+#EXTINF:-1 group-title="Moskau",Психология
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/psihologiya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream6.php?id=psikhologiya-21
+#EXTINF:-1 group-title="Moskau",Поехали!
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/poehali-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000002991&expires=1793111347&token=763a37dc8f06989056dff1260a78dacb6008a7620235b3cd0090fff760478567
+#EXTINF:-1 group-title="Moskau",Наука
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/nauka/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1248/index.m3u8
+#EXTINF:-1 group-title="Moskau",История
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/istoriya/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1266/index.m3u8
+#EXTINF:-1 group-title="Moskau",Зоо ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zoo-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/28/h0c5Eyuek0CppzJQmzPiyAsK9mjR21akFPz83QYGWp0zp6dXZwy0kI8VMPt01PMfKxcVbANzbX8mnbAH-ogCrw/index.m3u8
+#EXTINF:-1 group-title="Moskau",Здоровое ТВ
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zdorovoe-tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000057&expires=1793111348&token=d3cbbbfdec766a9effc1f0e03b55cffa5425ed4ebcaaf9a9de2d6f78491f8a04
+#EXTINF:-1 group-title="Moskau",Загородная жизнь
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zagorodnaya-zhizn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000289&expires=1793111348&token=842397197fdf78f46d6e7242e423d8bf48ddb67262e210b88e011b8cbda86c08
+#EXTINF:-1 group-title="Moskau",Живая природа
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zhivaya-priroda/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001187&expires=1793111256&token=507b3dfc7cc4d1a55f4c0dc33d700cec1881245aa339fb89915f0cd097f1e5eb
+#EXTINF:-1 group-title="Moskau",Живая Планета
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zhivaya-planeta/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=zhivaya-planeta
+#EXTINF:-1 group-title="Moskau",Домашние животные
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/domashnie-zhivotnye/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000146&expires=1793111349&token=d79c6f425d6e7360733e149c3c656dc343956e4176faed6f8b9df90a9ef1fb33
+#EXTINF:-1 group-title="Moskau",Доктор
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/doctor/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://stream8.cinerama.uz/1409/index.m3u8
+#EXTINF:-1 group-title="Moskau",Бобёр
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/bober/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000001478&expires=1793111257&token=726c010a64e8283f1db5fd0b9fc319f3f68438ca08e4c4c0f47f74bef75e52a4
+#EXTINF:-1 group-title="Moskau",ZooПарк
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/zoopark/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream2.php?id=000000260&expires=1793111349&token=636a3518e8bbde8b3ed9307444f81aeb9562746c75267a4bf43e3b50cabdf518
+#EXTINF:-1 group-title="Moskau",Travel Channel
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/travel-channel/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/streams/stream3.php?id=travel-channel
+#EXTINF:-1 group-title="Moskau",Travel+Adventure
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/travel-adventure/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://vits.tv/stream/22/206/index.m3u8
+#EXTINF:-1 group-title="Moskau",RT Doc (Россия)
+#EXTVLCOPT:http-referrer=https://vits.tv/de/tv/rt-doc-ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
+https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
