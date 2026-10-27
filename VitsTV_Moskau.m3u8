@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Театр" group-title="Russia",Театр
+https://vits.tv/streams/stream6.php?id=teatr
+#EXTINF:-1 tvg-name="Мужской" group-title="Russia",Мужской
+https://vits.tv/streams/stream3.php?id=muzhskoj
+#EXTINF:-1 tvg-name="В мире животных" group-title="Russia",В мире животных
+https://vits.tv/streams/stream3.php?id=v-mire-zhivotnykh
+#EXTINF:-1 tvg-name="Т24" group-title="Russia",Т24
+https://vits.tv/streams/stream3.php?id=24-tekhno
+#EXTINF:-1 tvg-name="Первый Космический" group-title="Russia",Первый Космический
+https://vits.tv/streams/stream3.php?id=pervyj-kosmicheskij
+#EXTINF:-1 tvg-name="Моя стихия" group-title="Russia",Моя стихия
+https://vits.tv/streams/stream6.php?id=moya-stikhiya
+#EXTINF:-1 tvg-name="Оружие" group-title="Russia",Оружие
+https://vits.tv/streams/stream7.php/playlist.m3u8?id=oruzhie&u=aHR0cHM6Ly9lZGdlMDctYWxtLmJlZXR2Lmt6OjQ0My9icGstdG9rZW4vNGFuQHc0Y2dyc29ybHllazBwdWh1Z3dwaGZtY2Z2dnhxanV1dzRqd2tyZGEvYnBrLXR2LzAwMDAwMDMwOC90dmUvMDAwMDAwMzA4LWF1ZGlvXzgyODgyX3J1cz04MjQwMC12aWRlbz0yMTM3NjAwLm0zdTg
+#EXTINF:-1 tvg-name="Приключения" group-title="Russia",Приключения
+https://vits.tv/streams/stream3.php?id=priklyucheniya-hd
+#EXTINF:-1 tvg-name="History" group-title="Russia",History
+https://vits.tv/streams/stream3.php?id=history-channel
+#EXTINF:-1 tvg-name="Bridge TV Deluxe" group-title="Russia",Bridge TV Deluxe
+https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Музыка Кино International" group-title="Russia",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-name="Новое Радио" group-title="Russia",Новое Радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/25de8a44f3d3d83c4519985e19437c29--video01--video01_1080.sdp--chunklist.m3u8?hls_proxy_host=5f62ef406190acc623300157d228c341
+#EXTINF:-1 tvg-name="Страна FM" group-title="Russia",Страна FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/99ee104b38f852cdee1e10c0807eda2c--stranafm--stranafm_hd.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=4cf1db3cb92056e052625ba031e2e718
+#EXTINF:-1 tvg-name="Шансон ТВ" group-title="Russia",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:-1 tvg-name="Song TV Russland" group-title="Russia",Song TV Russland
+https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Детский мир" group-title="Russia",Детский мир
+https://fl1003.bozztv.com/ushba80/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Детское кино International" group-title="Russia",Детское кино International
+https://kino-1.catcast.tv/content/40426/index.m3u8
+#EXTINF:-1 tvg-name="TiJi" group-title="Russia",TiJi
+https://stream8.cinerama.uz/1441/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Russland" group-title="Russia",Nickelodeon Russland
+https://stream8.cinerama.uz/1500/index.m3u8
+#EXTINF:-1 tvg-name="Солнце" group-title="Russia",Солнце
+https://vits.tv/hls/tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-name="Конный Мир" group-title="Russia",Конный Мир
+https://hnc-free-viewlift.amagi.tv/playlist1080_P.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="Russia",Матч! Футбол 2
+https://vits.tv/stream/20/142/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Матч! Игра" group-title="Russia",Матч! Игра
+https://vits.tv/stream/20/188/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Матч!Арена" group-title="Russia",Матч!Арена
+https://vits.tv/stream/20/163/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Матч! Страна" group-title="Russia",Матч! Страна
+https://vits.tv/stream/20/143/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Бог Благ ТВ" group-title="Russia",Бог Благ ТВ
+https://glorystarplus.tv/BogBlagTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Три Ангела" group-title="Russia",Три Ангела
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-name="ТБН" group-title="Russia",ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist_w1535452692_b3649702.m3u8
+#EXTINF:-1 tvg-name="7 TV" group-title="Russia",7 TV
+https://v4.proofix.ru/7tv-live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Дикий" group-title="Russia",Дикий
+https://vits.tv/streams/stream6.php?id=dikij
+#EXTINF:-1 tvg-name="Россия Культура" group-title="Russia",Россия Культура
+https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Россия РТР" group-title="Russia",Россия РТР
+https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-name="Россия 24" group-title="Russia",Россия 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="MB TV" group-title="Russia",MB TV
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 tvg-name="Индийское кино" group-title="Russia",Индийское кино
+https://vits.tv/stream/20/104/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="СССР ТВ" group-title="Russia",СССР ТВ
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Любимые фильмы" group-title="Russia",Любимые фильмы
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.ts.m3u8?lb_backend_hint=6
+#EXTINF:-1 tvg-name="Мистер Бин" group-title="Russia",Мистер Бин
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FilmBox Russia" group-title="Russia",FilmBox Russia
+https://vits.tv/streams/stream3.php?id=filmbox
+#EXTINF:-1 tvg-name="Кинодром" group-title="Russia",Кинодром
+https://stream-us-east-1.getpublica.com/cl/261027dbgbd38i6e7c73dhuhe0/1920x1080_4172199_0_f.m3u8?i=1017_3391
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="Russia",Кинокомедия
+https://vits.tv/stream/20/265/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Матч ТВ" group-title="Russia",Матч ТВ
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
+#EXTINF:-1 tvg-name="HITV" group-title="Russia",HITV
+https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist_w1632842388.m3u8
+#EXTINF:-1 tvg-name="DanceHits80" group-title="Russia",DanceHits80
+https://vits.tv/stream/29/index.m3u8
+#EXTINF:-1 tvg-name="360° Новости" group-title="Russia",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 tvg-name="Телеканал 360°" group-title="Russia",Телеканал 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 tvg-name="Красная Линия" group-title="Russia",Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="РБК" group-title="Russia",РБК
+https://f78lz4fal0.a.trbcdn.net/cdnvideo/rbctvhd_1080p/index.m3u8?e=cdnvideo&t=zz9YtX
+#EXTINF:-1 tvg-name="Домашний" group-title="Russia",Домашний
+https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Russia",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/3233871a6f9cca31b9eb8379ae7d3f61--tvc-res--vd9221_480p--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
+#EXTINF:-1 tvg-name="ТЕО-ТВ" group-title="Russia",ТЕО-ТВ
+https://stream.teotv.ru/live/site360/chunklist_w707578819.m3u8
+#EXTINF:-1 tvg-name="Ники ТВ" group-title="Russia",Ники ТВ
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8?nimblesessionid=279810883
+#EXTINF:-1 tvg-name="Просвещение" group-title="Russia",Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Большая Азия" group-title="Russia",Большая Азия
+https://vits.tv/hls/live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTINF:-1 tvg-name="Калейдоскоп ТВ" group-title="Russia",Калейдоскоп ТВ
+https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/chunks.m3u8?nimblesessionid=279810901
+#EXTINF:-1 tvg-name="8 Канал Россия" group-title="Russia",8 Канал Россия
+https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="РЖД ТВ" group-title="Russia",РЖД ТВ
+https://vits.tv/ru-tv/rzd-tv/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+#EXTINF:-1 tvg-name="Эхо-ТВ" group-title="Russia",Эхо-ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=b0c143d388b8ad16aba06be96e6d5edd
+#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="Russia",ЛДПР ТВ
+https://vits.tv/stream/25/live/mp4:ldpr.stream/chunklist_w134157811.m3u8
+#EXTINF:-1 tvg-name="EuroNews Россия" group-title="Russia",EuroNews Россия
+https://vits.tv/streams/stream2.php?id=000000025&q=2137600&expires=1793115208&token=f5fda44ce7b57144a11a5686d8844734c22eb78614505ab73972c1dcef2bead2
+#EXTINF:-1 tvg-name="viju Nature" group-title="Russia",viju Nature
+https://vits.tv/streams/stream3.php?id=viasat-nature
+#EXTINF:-1 tvg-name="viju Explore" group-title="Russia",viju Explore
+https://vits.tv/streams/stream2.php?id=000004157&q=5287600&expires=1793115209&token=678b71087f1111fe51d1dc63d0a58574aaa1bf18cd8b279509bf0c0ae86461d6
+#EXTINF:-1 tvg-name="viju History" group-title="Russia",viju History
+https://vits.tv/streams/stream2.php?id=000005528&q=5287600&expires=1793115210&token=b6f88d0aba4cbd108b23c20855af83530fdaae5d734104ad56b0efdd3774d1f0
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Russia",Europa Plus TV
+https://vits.tv/stream/22/184/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="LUXURY" group-title="Russia",LUXURY
+https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="FoodTime" group-title="Russia",FoodTime
+https://vits.tv/streams/stream6.php?id=foodtime
+#EXTINF:-1 tvg-name="Food Network" group-title="Russia",Food Network
+https://vits.tv/stream/20/298/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="Радость Моя" group-title="Russia",Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Надежда" group-title="Russia",Надежда
+https://tvhope-hls.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=65727894416b24f5ebc095fd5879b8d1
+#EXTINF:-1 tvg-name="Спас ТВ" group-title="Russia",Спас ТВ
+https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Cinema Classic TV" group-title="Russia",Cinema Classic TV
+https://vits.tv/streams/stream2.php?id=000000239&q=2137600&expires=1793115216&token=4b407d84f50450c6719d827440dac6e69c88f807162de9085756fbc43042a2de
+#EXTINF:-1 tvg-name="Русский Детектив" group-title="Russia",Русский Детектив
+https://vits.tv/streams/stream3.php?id=russkij-illyuzion
+#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Russia",Русский Иллюзион
+https://vits.tv/streams/stream3.php?id=russkij-illyuzion
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" group-title="Russia",Мосфильм. Золотая коллекция
+https://vits.tv/streams/stream3.php?id=mosfilm-zolotaya-kollektsiya
+#EXTINF:-1 tvg-name="Кино 1 International" group-title="Russia",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="Дом кино" group-title="Russia",Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=".sci-fi" group-title="Russia",.sci-fi
+https://vits.tv/streams/stream2.php?id=000000134&q=2137600&expires=1793115223&token=3d71f7d4cc3adc622db3c95d333507d7e4a722d07de2df7c46cd796d384b6fec
+#EXTINF:-1 tvg-name=".black" group-title="Russia",.black
+https://vits.tv/streams/stream2.php?id=000000520&expires=1793109850&token=dd547f831da30a18caac3a6edbf0cc4b62b9c6774d002deeb0494858eaf43655
+#EXTINF:-1 tvg-name=".red" group-title="Russia",.red
+https://vits.tv/streams/stream3.php?id=set
+#EXTINF:-1 tvg-name="START Air" group-title="Russia",START Air
+https://vits.tv/streams/stream7.php/playlist.m3u8?id=start-air&u=aHR0cHM6Ly9lZGdlMDYtYWxtLmJlZXR2Lmt6OjQ0My9icGstdG9rZW4vNGFuQHh5bG95amZxcHpiaGZsb2tvc2xtbHgycXRzZjRzZG9reG8zZnFqYmEvYnBrLXR2LzAwMDAwNzgxNS90dmUvMDAwMDA3ODE1LWF1ZGlvXzgyODgyX3J1cz04MjQwMC12aWRlbz01Mjg3NjAwLm0zdTg
+#EXTINF:-1 tvg-name="Наша Тема" group-title="Russia",Наша Тема
+https://live-3.otcnet.ru/nashatema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Открытый мир" group-title="Russia",Открытый мир
+https://v4.proofix.ru/0mir/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Перпетуум Мобиле" group-title="Russia",Перпетуум Мобиле
+https://wonder-samsung-uk.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Глазами туриста" group-title="Russia",Глазами туриста
+https://vits.tv/streams/stream2.php?id=000001414&q=5287600&expires=1793115231&token=70cb4f1c55ddbea6d2b47bfd9010b67cff17ab8a5926961436fd896d5754d5ca
+#EXTINF:-1 tvg-name="Про Бизнес" group-title="Russia",Про Бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist_w2077469149.m3u8
+#EXTINF:-1 tvg-name="TV BRICS" group-title="Russia",TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Океан HD" group-title="Russia",Океан HD
+https://vits.tv/streams/stream6.php?id=ocean-tv
+#EXTINF:-1 tvg-name="Тайны Галактики" group-title="Russia",Тайны Галактики
+https://vits.tv/streams/stream2.php?id=000000332&q=5287600&expires=1793115234&token=ab82148fe9a6e09c635cda076708395ced6c527636a2839a49d00006bf0b3abc
+#EXTINF:-1 tvg-name="Investigation Discovery (Россия)" group-title="Russia",Investigation Discovery (Россия)
+https://vits.tv/streams/stream3.php?id=id-xtra
+#EXTINF:-1 tvg-name="Discovery Science (Россия)" group-title="Russia",Discovery Science (Россия)
+https://vits.tv/streams/stream2.php?id=000001496&q=5287600&expires=1793115236&token=a03282ae452efe72dbf9bd193065e7eebd3e7aea189d6ab6c43c16e6f506103d
+#EXTINF:-1 tvg-name="Discovery Channel (Россия)" group-title="Russia",Discovery Channel (Россия)
+https://vits.tv/streams/stream2.php?id=000001496&q=5287600&expires=1793115236&token=a03282ae452efe72dbf9bd193065e7eebd3e7aea189d6ab6c43c16e6f506103d
+#EXTINF:-1 tvg-name="Da Vinci (Россия)" group-title="Russia",Da Vinci (Россия)
+https://vits.tv/stream/20/238/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="TOP SECRET (Совершенно Секретно)" group-title="Russia",TOP SECRET (Совершенно Секретно)
+https://vits.tv/media/live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63&zoid=sref
+#EXTINF:-1 tvg-name="Нано" group-title="Russia",Нано
+https://s1.tv-nano.com/Nano_rec/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Russian Travel Guide" group-title="Russia",Russian Travel Guide
+https://vits.tv/stream/20/164/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="365 дней ТВ" group-title="Russia",365 дней ТВ
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Каббала ТВ" group-title="Russia",Каббала ТВ
+https://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8?nimblesessionid=49459716
+#EXTINF:-1 tvg-name="ЛАДА" group-title="Russia",ЛАДА
+https://live.kinescopecdn.net/on-air/ba0fa61f-647c-4ee0-9992-89f6744efa86/72bdd687-a91c-417a-ae1a-8e2f68a03cb2/1080p/media.m3u8
+#EXTINF:-1 tvg-name="Китай ТВ" group-title="Russia",Китай ТВ
+https://amvdu0novnt.a.trbcdn.net/livemaster/75pcv_slwd3z4c91.smil/e06880a945444fac431408948c8a49a3--livemaster--470eoxzyfi_stream1--tracks-v1a1--mono.m3u8?hls_proxy_host=4c17238f7fd006d66efb4dd3961cfced
+#EXTINF:-1 tvg-name="Психология" group-title="Russia",Психология
+https://vits.tv/streams/stream6.php?id=psikhologiya-21
+#EXTINF:-1 tvg-name="Поехали!" group-title="Russia",Поехали!
+https://vits.tv/streams/stream2.php?id=000002991&q=2137600&expires=1793115243&token=0ae092e8d37634d46493b32759ab390250992431485c4a1bc6a7c6931c2f8baf
+#EXTINF:-1 tvg-name="История" group-title="Russia",История
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Здоровое ТВ" group-title="Russia",Здоровое ТВ
+https://vits.tv/streams/stream2.php?id=000000057&q=2137600&expires=1793115244&token=d8d01f3066aefb22cb2ab5264fceaf7ff1f4099f821e5e47ceee0df3b7ce62da
+#EXTINF:-1 tvg-name="Загородная жизнь" group-title="Russia",Загородная жизнь
+https://vits.tv/streams/stream2.php?id=000000289&expires=1793111348&token=842397197fdf78f46d6e7242e423d8bf48ddb67262e210b88e011b8cbda86c08
+#EXTINF:-1 tvg-name="Живая природа" group-title="Russia",Живая природа
+https://vits.tv/streams/stream2.php?id=000001187&q=5287600&expires=1793115247&token=7f8d60d7c3c8f942bdbaa9cb0ef70e5ac876601b2099d7aebe6f2db7ac448f38
+#EXTINF:-1 tvg-name="Живая Планета" group-title="Russia",Живая Планета
+https://vits.tv/streams/stream3.php?id=zhivaya-planeta
+#EXTINF:-1 tvg-name="Домашние животные" group-title="Russia",Домашние животные
+https://vits.tv/streams/stream2.php?id=000000146&q=2137600&expires=1793115249&token=a0cae35cc254db945aecfb5259c89c52d72d8d1c28bdd3a69cdd857fd63c847c
+#EXTINF:-1 tvg-name="Доктор" group-title="Russia",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Бобёр" group-title="Russia",Бобёр
+https://vits.tv/streams/stream2.php?id=000001478&q=2137600&expires=1793115250&token=b0bce96ed323b7b863715bd6b82187aff5e4fa8dcd959479d16c591a0497e5eb
+#EXTINF:-1 tvg-name="ZooПарк" group-title="Russia",ZooПарк
+https://vits.tv/streams/stream2.php?id=000000260&q=5287600&expires=1793115251&token=f54a5171873f7ca3cb860218b43ad800fb74c6f9e33b1b0d5de0acc6eebe0f1b
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Russia",Travel Channel
+https://vits.tv/streams/stream3.php?id=travel-channel
+#EXTINF:-1 tvg-name="RT Doc (Россия)" group-title="Russia",RT Doc (Россия)
+https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
