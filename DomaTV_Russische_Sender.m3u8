@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
-https://s.domatv.net/wXD4IpPqnx2frJpSIYMpvQ/544/1793130754/index.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
-https://s.domatv.net/-bMjBBqjdwMePUModpQE3w/540/1793130755/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Russia",ТНТ
-https://s.domatv.net/LA04tGFajirwvSAYLlIqsQ/547/1793130755/index.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Russia",СТС
-https://s.domatv.net/re3p0xj-62bzWjtHZUxHDw/591/1793130755/index.m3u8
