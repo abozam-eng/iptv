@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
+https://river-3-374.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/6imY0BrIiA4gITfIZwnRKg/1793730578/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
+https://river-3-370.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NJsyqqPcoXd1IlleRGIvfQ/1793730498/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Russia",ТНТ
+https://river-3-361.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/QCf_82-fmGd0do1wMbnTuA/1793730430/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="СТС" group-title="Russia",СТС
+http://stream.mcquack.net/138/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="НТВ" group-title="Russia" aspect-ratio="16:9",НТВ
+https://river-3-3122.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/rQYBPwMPGGm6O8rrN_2vMQ/1793732193/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Russia" aspect-ratio="16:9",Пятый канал
+http://31.148.5.241/kanal_5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Russia" aspect-ratio="16:9",РЕН ТВ
+http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Домашний" group-title="Russia" aspect-ratio="16:9",Домашний
+http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 tvg-name="ТВ Центр" group-title="Russia" aspect-ratio="16:9",ТВ Центр
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Карусель" group-title="Russia" aspect-ratio="16:9",Карусель
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1 tvg-name="RTL" group-title="Deutschland" aspect-ratio="16:9",RTL
+https://s6.hopslan.com/rtlt11/index.m3u8
+#EXTINF:-1 tvg-name="RTLZWEI" group-title="Deutschland" aspect-ratio="16:9",RTLZWEI
+https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland" aspect-ratio="16:9",SAT.1
+https://dash2.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland" aspect-ratio="16:9",ProSieben
+https://dash2.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins" group-title="Deutschland" aspect-ratio="16:9",Kabel Eins
+https://dash2.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SUPER RTL" group-title="Deutschland" aspect-ratio="16:9",SUPER RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="VOX" group-title="Deutschland" aspect-ratio="16:9",VOX
+https://s6.hopslan.com/voxz/index.m3u8
