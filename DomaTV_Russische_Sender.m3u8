@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
-http://109.207.243.18/2/index.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
-https://s.domatv.net/540/index.m3u8?k=1793142397p612i032i15i87Sb5bcd7c36a8c1dae454029d732ce9b91
-#EXTINF:-1 tvg-name="ТНТ" group-title="Russia",ТНТ
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Russia",СТС
-http://stream.mcquack.net/138/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
