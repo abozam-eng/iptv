@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1 (Stream 1)
+https://river-3-374.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/6imY0BrIiA4gITfIZwnRKg/1793730578/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
 https://river-3-374.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/6imY0BrIiA4gITfIZwnRKg/1793730578/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
