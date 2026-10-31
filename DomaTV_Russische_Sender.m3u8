@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Moskau",Россия 1
-#EXTVLCOPT:http-referrer=https://russian-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Moskau",Россия 1
-#EXTVLCOPT:http-referrer=https://russian-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/130 Safari/537.36
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1 (Stream 1)
-https://river-3-374.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/6imY0BrIiA4gITfIZwnRKg/1793730578/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
-#EXTINF:-1 tvg-name="Россия 1" group-title="Russia",Россия 1
-https://river-3-374.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/6imY0BrIiA4gITfIZwnRKg/1793730578/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Russia",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 HD (Backup)" group-title="Russia",Россия 1 HD (Mirror)
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
 https://river-3-370.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NJsyqqPcoXd1IlleRGIvfQ/1793730498/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-name="ТНТ" group-title="Russia",ТНТ
