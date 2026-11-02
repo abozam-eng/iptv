@@ -15,6 +15,8 @@ http://stream.mcquack.net/135/index.m3u8
 http://stream1.cinerama.uz/1021/index.m3u8
 #EXTINF:-1 tvg-name="Gags Network" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Russische Sender",Gags Network
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name="Gagsnetwork" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="Russische Sender",Gagsnetwork
+http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png" group-title="Russische Sender",РЕН ТВ
 http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD
@@ -220,7 +222,7 @@ http://stream1.cinerama.uz/1233/index.m3u8
 #EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Filme",Классика кино HD (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-name=".red HD (2)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russische Filme",.red HD (2)
-http://stream.mcquack.net/69/index.m3u8
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Russische Serien",viju+ Serial HD
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Serien",Киносерия HD
@@ -260,7 +262,7 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
-https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
+http://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
