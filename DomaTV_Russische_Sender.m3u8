@@ -1,44 +1,447 @@
-
 #EXTM3U
-
-
-#EXTINF:-1 tvg-name="Россия 1 HD (Backup)" group-title="Russia",Россия 1 HD (Mirror)
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png" group-title="Russische Sender",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-name="Россия 1 (Cinerama)" group-title="Russia",Россия 1 (Cinerama)
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Россия 1 (Smotrim)" group-title="Russia",Россия 1 (Smotrim)
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Russia",Первый канал
-https://river-3-370.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NJsyqqPcoXd1IlleRGIvfQ/1793730498/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="Russia",ТНТ
-https://river-3-361.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/QCf_82-fmGd0do1wMbnTuA/1793730430/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="Russia",СТС
-http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 tvg-name="НТВ" group-title="Russia" aspect-ratio="16:9",НТВ
-https://river-3-3122.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/rQYBPwMPGGm6O8rrN_2vMQ/1793732193/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
-#EXTINF:-1 tvg-name="Пятый канал" group-title="Russia" aspect-ratio="16:9",Пятый канал
-http://31.148.5.241/kanal_5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Russia" aspect-ratio="16:9",РЕН ТВ
-http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Домашний" group-title="Russia" aspect-ratio="16:9",Домашний
+#EXTINF:-1 tvg-name="Домашний HD" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png" group-title="Russische Sender",Домашний HD
 http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-#EXTINF:-1 tvg-name="ТВ Центр" group-title="Russia" aspect-ratio="16:9",В Центр
+#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" group-title="Russische Sender",Первый канал HD
+http://river-3-370.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NJsyqqPcoXd1IlleRGIvfQ/1793730498/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD
+http://flussonic.linkintel.ru/ntv/index.m3u8
+#EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Russische Sender",СТС HD
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png" group-title="Russische Sender",Россия 24
+http://stream1.cinerama.uz/1021/index.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png" group-title="Russische Sender",РЕН ТВ
+http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Russische Sender",Пятый канал
+http://31.148.5.241/kanal_5/index.m3u8
+#EXTINF:-1 tvg-name="Россия К HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Sender",Россия К HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1 tvg-name="ТВ Центр HD" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Карусель" group-title="Russia" aspect-ratio="16:9",Карусель
-https://streaming102.interskytech.com/live/232.m3u8
-#EXTINF:-1 tvg-name="RTL" group-title="Deutschland" aspect-ratio="16:9",RTL
-https://s6.hopslan.com/rtlt11/index.m3u8
-#EXTINF:-1 tvg-name="RTLZWEI" group-title="Deutschland" aspect-ratio="16:9",RTLZWEI
-https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland" aspect-ratio="16:9",SAT.1
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png" group-title="Russische Sender",Карусель
+http://stream1.cinerama.uz/1034/index.m3u8
+#EXTINF:-1 tvg-name="ОТР HD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="Russische Sender",ОТР HD
+http://flussonic.linkintel.ru/otr/index.m3u8
+#EXTINF:-1 tvg-name="Мир HD" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Ю HD" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="Russische Sender",Ю HD
+http://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=http
+#EXTINF:-1 tvg-name="Суббота! HD" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="Russische Sender",Суббота! HD
+http://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=http
+#EXTINF:-1 tvg-name="2x2 HD" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="Russische Sender",2x2 HD
+http://185.23.80.23:8080/2x2/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 HD" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png" group-title="Russische Sender",ТНТ4 HD
+http://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=http
+#EXTINF:-1 tvg-name="Мир 24 HD" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="РБК HD" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Russische Sender",РБК HD
+https://f78lz4fal0.a.trbcdn.net/cdnvideo/rbctvhd_1080p/index.m3u8?e=cdnvideo&t=zz9YtX
+#EXTINF:-1 tvg-name="Известия HD" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Russische Sender",Известия HD
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="Russische Sender",Матч! Игра HD
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна HD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Russische Sender",Матч! Страна HD
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Russische Sender",Матч! Футбол 2 HD
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Russische Sender",Матч! Футбол 3 HD
+http://176.100.46.245:90/matchfootball3/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="Russische Sender",Матч! Премьер
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Sport HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Russische Sender",viju+ Sport HD
+http://46.53.200.153:7777/play/a01l/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Russische Sender",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 tvg-name="RU.TV HD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Russische Sender",RU.TV HD
+http://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=http
+#EXTINF:-1 tvg-name="RT Doc HD" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Russische Sender",RT Doc HD
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Russische Sender",360 HD
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-name="360 Новости HD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Russische Sender",360 Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-name="История HD" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png" group-title="Russische Sender",История HD
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 tvg-name="Euronews HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Russische Sender",Euronews HD
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png" group-title="Russische Sender",Россия 1 HD (2)
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-name="Домашний HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png" group-title="Russische Sender",Домашний HD (2)
+http://stream1.cinerama.uz/1436/index.m3u8
+#EXTINF:-1 tvg-name="НТВ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD (2)
+http://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=http
+#EXTINF:-1 tvg-name="СТС HD (2)" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Russische Sender",СТС HD (2)
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD (2)
+http://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=http
+#EXTINF:-1 tvg-name="Россия 24 (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png" group-title="Russische Sender",Россия 24 (2)
+http://stream2.cinerama.uz/1021/index.m3u8
+#EXTINF:-1 tvg-name="Россия К HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Sender",Россия К HD (2)
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-name="ТВ Центр HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD (2)
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Карусель (2)" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png" group-title="Russische Sender",Карусель (2)
+http://stream2.cinerama.uz/1034/index.m3u8
+#EXTINF:-1 tvg-name="Мир HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир HD (2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-name="Ю HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="Russische Sender",Ю HD (2)
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-name="2x2 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="Russische Sender",2x2 HD (2)
+http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=http
+#EXTINF:-1 tvg-name="ТНТ4 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png" group-title="Russische Sender",ТНТ4 HD (2)
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+#EXTINF:-1 tvg-name="Мир 24 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир 24 HD (2)
+http://stream2.cinerama.uz/1219/index.m3u8
+#EXTINF:-1 tvg-name="РБК HD (2)" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Russische Sender",РБК HD (2)
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD (2)" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Russische Sender",Матч! Футбол 3 HD (2)
+http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Sport HD (2)" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Russische Sender",viju+ Sport HD (2)
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-name="RT Doc HD (2)" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Russische Sender",RT Doc HD (2)
+https://streaming.thestream.cyou/live/554.m3u8
+#EXTINF:-1 tvg-name="360 HD (2)" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Russische Sender",360 HD (2)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 tvg-name="360 Новости HD (2)" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Russische Sender",360 Новости HD (2)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="История HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png" group-title="Russische Sender",История HD (2)
+http://stream2.cinerama.uz/1046/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="Russische Filme",viju TV1000 HD
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-name="START Air HD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Russische Filme",START Air HD
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 русское HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png" group-title="Russische Filme",viju TV1000 русское HD
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="Russische Filme",viju TV1000 action HD
+http://stream1.cinerama.uz/1225/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Premiere HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Russische Filme",viju+ Premiere HD
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Comedy HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Russische Filme",viju+ Comedy HD
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Russische Filme",viju+ Serial HD
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Russische Filme",Кинопоказ HD
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Russische Filme",Кино ТВ HD
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Russische Filme",Киносемья HD
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Russische Filme",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="Russische Filme",Кинопремьера HD
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Russische Filme",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Russische Filme",Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Filme",Киносерия HD
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-name="Amedia 1 HD" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Russische Filme",Amedia 1 HD
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png" group-title="Russische Filme",Мосфильм. Золотая коллекция
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-name="Любимое кино HD" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Russische Filme",Любимое кино HD
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 tvg-name="Советское кино HD" tvg-logo="https://i.imgur.com/uqnTowX.png" group-title="Russische Filme",Советское кино HD
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-name="Классика кино HD" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Filme",Классика кино HD
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 tvg-name=".black HD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Russische Filme",.black HD
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-name=".red HD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russische Filme",.red HD
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="Russische Filme",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-name="City Eden KinoAsia HD" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Russische Filme",City Eden KinoAsia HD
+http://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-name="City Eden KinoFantastika HD" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Russische Filme",City Eden KinoFantastika HD
+http://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-name="City Eden KinoKlassika HD" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Russische Filme",City Eden KinoKlassika HD
+http://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-name="Наш Кинопоказ HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="Russische Filme",Наш Кинопоказ HD
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 tvg-name="КиноМеню HD" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10286/logo_256_1658736631.png" group-title="Russische Filme",КиноМеню HD
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1 tvg-name="Киносезон HD" tvg-logo="https://i.imgur.com/pk8PMUh.png" group-title="Russische Filme",Киносезон HD
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="Russische Filme",viju TV1000 HD (2)
+http://stream2.cinerama.uz/1058/index.m3u8
+#EXTINF:-1 tvg-name="START Air HD (2)" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Russische Filme",START Air HD (2)
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="Russische Filme",viju TV1000 action HD (2)
+http://stream2.cinerama.uz/1225/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Comedy HD (2)" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Russische Filme",viju+ Comedy HD (2)
+http://stream1.cinerama.uz/1061/index.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD (2)" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Russische Filme",Кинопоказ HD (2)
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-name="Киносемья HD (2)" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Russische Filme",Киносемья HD (2)
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="Russische Filme",Кинопремьера HD (2)
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 tvg-name="Киномикс (2)" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Russische Filme",Киномикс (2)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Filme",Киносерия HD (2)
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Любимое кино HD (2)" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Russische Filme",Любимое кино HD (2)
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.ts.m3u8?lb_backend_hint=6
+#EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Filme",Классика кино HD (2)
+https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1 tvg-name=".red HD (2)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russische Filme",.red HD (2)
+http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Russische Serien",viju+ Serial HD
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Serien",Киносерия HD
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-name="Честный детектив HD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Russische Serien",Честный детектив HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Советское кино HD" tvg-logo="https://i.imgur.com/uqnTowX.png" group-title="Russische Klassik",Советское кино HD
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-name="Россия К HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Klassik",Россия К HD
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1 tvg-name="Классика кино HD" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Klassik",Классика кино HD
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 tvg-name="Союзмультфильм HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/1/13/Soyuzmultfilm_Logo%282%29.svg/330px-Soyuzmultfilm_Logo%282%29.svg.png" group-title="Russische Klassik",Союзмультфильм HD
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-name="100% Классика HD" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="Russische Musik",100% Классика HD
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Classic Music HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Russische Musik",Classic Music HD
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-name="Russian MusicBox HD" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Russische Musik",Russian MusicBox HD
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1 tvg-name="МузСоюз HD" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Russische Musik",Mezzo Live HD
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Deluxe HD" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Classica HD" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="Deutsche Sender",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Deutsche Sender",RTL
+http://88.212.15.50/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SAT.1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png" group-title="Deutsche Sender",SAT.1 HD
 https://dash2.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland" aspect-ratio="16:9",ProSieben
+#EXTINF:-1 tvg-name="ProSieben HD" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Deutsche Sender",ProSieben HD
 https://dash2.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="Kabel Eins" group-title="Deutschland" aspect-ratio="16:9",Kabel Eins
-https://dash2.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="SUPER RTL" group-title="Deutschland" aspect-ratio="16:9",SUPER RTL
-https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="VOX" group-title="Deutschland" aspect-ratio="16:9",VOX
+#EXTINF:-1 tvg-name="VOX" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Deutsche Sender",VOX
 https://s6.hopslan.com/voxz/index.m3u8
-
-```
+#EXTINF:-1 tvg-name="kabel eins HD" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Deutsche Sender",kabel eins HD
+https://dash2.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="RTLZWEI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Deutsche Sender",RTLZWEI
+https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="SUPER RTL" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Deutsche Sender",SUPER RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="arte HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="Deutsche Sender",arte HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="Deutsche Sender",3sat HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="Deutsche Sender",phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24 HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="Deutsche Sender",tagesschau24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="Deutsche Sender",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" group-title="Deutsche Sender",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ONE HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="Deutsche Sender",ONE HD
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="KiKA HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="Deutsche Sender",KiKA HD
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="Deutsche Sender",WDR HD
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="NDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="Deutsche Sender",NDR HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutsche Sender",BR Fernsehen HD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="SWR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="Deutsche Sender",SWR HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="MDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="Deutsche Sender",MDR HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="Deutsche Sender",hr-fernsehen HD
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+#EXTINF:-1 tvg-name="rbb HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Deutsche Sender",rbb HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="n-tv" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Deutsche Sender",n-tv
+http://88.212.7.14/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Deutsche Sender",Comedy Central HD
+http://team-tv.co:81/comedy/index.m3u8
+#EXTINF:-1 tvg-name="WELT HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="Deutsche Sender",WELT HD
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" group-title="Deutsche Sender",DMAX
+http://5.180.164.197:8080/DMAX/index.m3u8
+#EXTINF:-1 tvg-name="sixx HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="Deutsche Sender",sixx HD
+http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" group-title="Deutsche Sender",ProSieben MAXX
+http://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="Deutsche Sender",SAT.1 Gold
+http://88.212.7.14/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Sender",ARD-alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" group-title="Deutsche Sender",SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="Deutsche Sender",Radio Bremen TV HD
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-name="Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Deutsche Sender",Nitro
+http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle HD" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Deutsche Sender",Deutsche Welle HD
+http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png" group-title="Deutsche Sender",Welt der Wunder HD
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL (2)" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Deutsche Sender",RTL (2)
+http://88.212.7.11/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SAT.1 HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png" group-title="Deutsche Sender",SAT.1 HD (2)
+http://88.212.7.11/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ProSieben HD (2)" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Deutsche Sender",ProSieben HD (2)
+http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="VOX (2)" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Deutsche Sender",VOX (2)
+http://88.212.15.50/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="kabel eins HD (2)" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Deutsche Sender",kabel eins HD (2)
+http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="RTLZWEI (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Deutsche Sender",RTLZWEI (2)
+http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SUPER RTL (2)" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Deutsche Sender",SUPER RTL (2)
+http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="Deutsche Sender",ZDFneo HD (2)
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
+#EXTINF:-1 tvg-name="KiKA HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="Deutsche Sender",KiKA HD (2)
+http://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-name="SWR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="Deutsche Sender",SWR HD (2)
+http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="Deutsche Sender",hr-fernsehen HD (2)
+http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-name="n-tv (2)" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Deutsche Sender",n-tv (2)
+http://88.212.15.50/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="WELT HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="Deutsche Sender",WELT HD (2)
+http://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-name="sixx HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="Deutsche Sender",sixx HD (2)
+http://88.212.15.50/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SAT.1 Gold (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="Deutsche Sender",SAT.1 Gold (2)
+http://88.212.15.50/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Nitro (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Deutsche Sender",Nitro (2)
+http://88.212.15.50/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Polizeiserien HD" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Deutsche Serien",Pluto TV Polizeiserien HD
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serien HD" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="Deutsche Serien",Pluto TV Serien HD
+https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Serien",Pluto TV Historische Serien HD
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Western Serien HD" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="Deutsche Serien",Pluto TV Western Serien HD
+https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Klassik",ARD-alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="Deutsche Klassik",3sat HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="arte HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="Deutsche Klassik",arte HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutsche Klassik",BR Fernsehen HD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="Deutsche Klassik",MDR HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="SWR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="Deutsche Klassik",SWR HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="NDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="Deutsche Klassik",NDR HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="Deutsche Klassik",WDR HD
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="Deutsche Klassik",hr-fernsehen HD
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+#EXTINF:-1 tvg-name="rbb HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Deutsche Klassik",rbb HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Klassik",Pluto TV Historische Serien HD
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Grjngo Western HD" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="Deutsche Klassik",Grjngo Western HD
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Autentic History HD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Deutsche Klassik",Autentic History HD
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-name="KulturMD HD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Deutsche Klassik",KulturMD HD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-name="Volksmusik TV HD" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Deutsche Musik",Volksmusik TV HD
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Folx Music Television HD" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Deutsche Musik",Folx Music Television HD
+https://folxapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen HD" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="Deutsche Musik",Deutsches Musik Fernsehen HD
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music HD" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Deutsche Musik",Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="Deutsche Musik",Deluxe Lounge HD
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-name="Stingray Classica HD" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Deutsche Musik",Stingray Classica HD
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Deutsche Musik",Mezzo Live HD
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Musik HD" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Deutsche Musik",Bibel TV Musik HD
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="RADIO DISCOunt TV HD" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="Deutsche Musik",RADIO DISCOunt TV HD
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-name="Panoramabilder HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="Panorama HD",Panoramabilder HD
+http://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
+#EXTINF:-1 tvg-name="Живая природа HD" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Panorama HD",Живая природа HD
+http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" group-title="Panorama HD",Travel Channel HD
+http://88.212.7.14/live/travel_hun/index.m3u8
+#EXTINF:-1 tvg-name="Travelxp HD" tvg-logo="https://dtil.tmsimg.com/assets/s144014_ld_h15_aa.png?lock=720x540" group-title="Panorama HD",Travelxp HD
+http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Panorama HD",Love Nature HD
+http://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+#EXTINF:-1 tvg-name="NatureTime HD" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Panorama HD",NatureTime HD
+http://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="viju Nature HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png" group-title="Panorama HD",viju Nature HD
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="viju Explore HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png" group-title="Panorama HD",viju Explore HD
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Panorama HD",Animal Planet HD
+http://88.212.7.14/live/animal_hun/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Panorama HD",National Geographic Wild HD
+http://88.212.7.14/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" group-title="Panorama HD",BBC Earth HD
+http://88.212.7.14/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-name="Моя стихия HD" tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="Panorama HD",Моя стихия HD
+http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 tvg-name="Outside TV HD" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Panorama HD",Outside TV HD
+http://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Waypoint TV HD" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Panorama HD",Waypoint TV HD
+http://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Relaxon HD" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="Panorama HD",Relaxon HD
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-name="Schladming-Dachstein TV HD" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Panorama HD",Schladming-Dachstein TV HD
+http://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Beach TV HD" tvg-logo="https://i.imgur.com/HCQDvEe.png" group-title="Panorama HD",Beach TV HD
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-name="Живая природа HD (2)" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Panorama HD",Живая природа HD (2)
+http://stream1.cinerama.uz/1411/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" group-title="Panorama HD",Travel Channel HD (2)
+http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="viju Nature HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png" group-title="Panorama HD",viju Nature HD (2)
+http://stream2.cinerama.uz/1228/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png" group-title="Panorama HD",viju Explore HD (2)
+http://stream1.cinerama.uz/1045/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Panorama HD",Animal Planet HD (2)
+http://stream1.cinerama.uz/1043/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Panorama HD",National Geographic Wild HD (2)
+http://stream1.cinerama.uz/1042/index.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+ 4K" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="4K",Bloomberg TV+ 4K
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport Czechia 4K" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="4K",Eurosport Czechia 4K
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Fireplace 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" group-title="4K",Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 tvg-name="Hebei TV 4K" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="4K",Hebei TV 4K
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-name="Insight TV 4K" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="4K",Insight TV 4K
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" group-title="4K",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-name="tvN 환혼 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" group-title="4K",tvN 환혼 4K
+https://jmp2.uk/stvp-KRBC4500001A5
+#EXTINF:-1 tvg-name="Bloomberg TV+ 4K (2)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" group-title="4K",Bloomberg TV+ 4K (2)
+https://jmp2.uk/stvp-KRBB500039Y5
+#EXTINF:-1 tvg-name="Love Nature 4K (2)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="4K",Love Nature 4K (2)
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
