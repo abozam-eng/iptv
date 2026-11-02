@@ -13,6 +13,8 @@ http://stream.mcquack.net/138/index.m3u8
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png" group-title="Russische Sender",Россия 24
 http://stream1.cinerama.uz/1021/index.m3u8
+#EXTINF:-1 tvg-name="Gags Network" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Russische Sender",Gags Network
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
 #EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://ngrch.github.io/iptv/logos/ren_tv.png" group-title="Russische Sender",РЕН ТВ
 http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD
@@ -77,6 +79,8 @@ http://stream1.cinerama.uz/1436/index.m3u8
 http://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=http
 #EXTINF:-1 tvg-name="ТНТ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD (2)
 http://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=http
+#EXTINF:-1 tvg-name="Gags Network (2)" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Russische Sender",Gags Network (2)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-name="Звезда HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD (2)
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-name="ТВ Центр HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD (2)
@@ -221,8 +225,6 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
-https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
