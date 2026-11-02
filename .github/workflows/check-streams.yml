@@ -6,8 +6,8 @@ name: Tägliche Stream-Prüfung
 
 on:
   schedule:
-    # Einmal täglich um 04:00 UTC (05:00 Uhr deutsche Winterzeit).
-    - cron: "0 4 * * *"
+    # Einmal täglich um 15:00 UTC (16:00 Uhr Berliner Zeit / CET im Winter; 17:00 Uhr während der Sommerzeit).
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 permissions:
