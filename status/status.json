@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-02T07:00:04Z",
-  "total": 223,
-  "ok": 200,
-  "failed": 23,
+  "checked_at": "2026-11-02T23:02:20Z",
+  "total": 272,
+  "ok": 234,
+  "failed": 38,
   "entries": [
     {
       "name": "Россия 1 HD",
@@ -11,7 +11,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Домашний HD",
@@ -20,7 +20,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Первый канал HD",
@@ -29,7 +29,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "НТВ HD",
@@ -38,7 +38,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "СТС HD",
@@ -47,7 +47,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "ТНТ HD",
@@ -56,7 +56,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Россия 24",
@@ -65,7 +65,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
+    },
+    {
+      "name": "Gags Network",
+      "group": "Russische Sender",
+      "logo": "https://i.imgur.com/HjVEVMJ.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:03Z"
+    },
+    {
+      "name": "Gagsnetwork",
+      "group": "Russische Sender",
+      "logo": "https://i.imgur.com/ENj5GIp.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "РЕН ТВ",
@@ -74,7 +92,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Звезда HD",
@@ -83,7 +101,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Пятый канал",
@@ -92,7 +110,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Россия К HD",
@@ -101,7 +119,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "ТВ Центр HD",
@@ -110,7 +128,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Карусель",
@@ -119,7 +137,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "ОТР HD",
@@ -128,7 +146,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "Мир HD",
@@ -137,7 +155,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Ю HD",
@@ -146,7 +164,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Суббота! HD",
@@ -155,7 +173,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "2x2 HD",
@@ -164,7 +182,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:46Z"
+      "checked_at": "2026-11-02T23:02:03Z"
     },
     {
       "name": "ТНТ4 HD",
@@ -173,7 +191,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Мир 24 HD",
@@ -182,7 +200,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "РБК HD",
@@ -191,7 +209,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Известия HD",
@@ -200,7 +218,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Матч! Игра HD",
@@ -209,7 +227,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Матч! Страна HD",
@@ -218,7 +236,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Матч! Футбол 2 HD",
@@ -227,7 +245,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Матч! Футбол 3 HD",
@@ -236,7 +254,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Матч! Премьер",
@@ -245,7 +263,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "viju+ Sport HD",
@@ -254,7 +272,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:47Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Eurosport 1 HD",
@@ -263,7 +281,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "RU.TV HD",
@@ -272,7 +290,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "RT Doc HD",
@@ -281,7 +299,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "360 HD",
@@ -290,7 +308,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "360 Новости HD",
@@ -299,7 +317,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "История HD",
@@ -308,7 +326,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Euronews HD",
@@ -317,7 +335,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Россия 1 HD (2)",
@@ -326,7 +344,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
       "name": "Домашний HD (2)",
@@ -335,7 +353,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "НТВ HD (2)",
@@ -344,16 +362,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
-    },
-    {
-      "name": "СТС HD (2)",
-      "group": "Russische Sender",
-      "logo": "https://i.imgur.com/ilUzAeb.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "ТНТ HD (2)",
@@ -362,25 +371,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
-      "name": "Россия 24 (2)",
+      "name": "Gags Network (2)",
       "group": "Russische Sender",
-      "logo": "https://ngrch.github.io/iptv/logos/rossiya_24.png",
+      "logo": "https://i.imgur.com/HjVEVMJ.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:04Z"
     },
     {
-      "name": "Россия К HD (2)",
+      "name": "Звезда HD (2)",
       "group": "Russische Sender",
-      "logo": "https://ngrch.github.io/iptv/logos/rossiya_k.png",
+      "logo": "https://ngrch.github.io/iptv/logos/zvezda.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "ТВ Центр HD (2)",
@@ -389,16 +398,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
-    },
-    {
-      "name": "Карусель (2)",
-      "group": "Russische Sender",
-      "logo": "https://ngrch.github.io/iptv/logos/karusel.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "Мир HD (2)",
@@ -407,16 +407,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:48Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
-      "name": "Ю HD (2)",
+      "name": "Суббота! HD (2)",
       "group": "Russische Sender",
-      "logo": "https://ngrch.github.io/iptv/logos/you.png",
+      "logo": "https://ngrch.github.io/iptv/logos/subbota.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:05Z"
     },
     {
       "name": "2x2 HD (2)",
@@ -425,16 +425,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
-    },
-    {
-      "name": "ТНТ4 HD (2)",
-      "group": "Russische Sender",
-      "logo": "https://ngrch.github.io/iptv/logos/tnt4.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "Мир 24 HD (2)",
@@ -443,7 +434,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "РБК HD (2)",
@@ -452,16 +443,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
-      "name": "Матч! Футбол 3 HD (2)",
+      "name": "Известия HD (2)",
       "group": "Russische Sender",
-      "logo": "https://i.imgur.com/P2ReH1u.png",
+      "logo": "https://i.imgur.com/r5HzA6J.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "viju+ Sport HD (2)",
@@ -470,7 +461,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:49Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "RT Doc HD (2)",
@@ -479,7 +470,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "360 HD (2)",
@@ -488,7 +479,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "360 Новости HD (2)",
@@ -497,7 +488,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "История HD (2)",
@@ -506,7 +497,151 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Euronews HD (2)",
+      "group": "Russische Sender",
+      "logo": "https://i.imgur.com/8t9mdg9.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:05Z"
+    },
+    {
+      "name": "Comedy Central Pluto TV",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG_1789028182543.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Pluto TV Deutsche Comedy",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Pluto TV Stand-up Comedy",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/663e09b341af640008c1b68c/colorLogoPNG.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:07Z"
+    },
+    {
+      "name": "LOL Just For Laughs",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/colorLogoPNG.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "South Park",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:07Z"
+    },
+    {
+      "name": "MTV Ridiculousness",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:07Z"
+    },
+    {
+      "name": "Comedy Dynamics",
+      "group": "Comedy",
+      "logo": "https://i.imgur.com/1lEvUOa.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Dry Bar Comedy",
+      "group": "Comedy",
+      "logo": "https://i.imgur.com/3N2C60N.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "SNL Vault",
+      "group": "Comedy",
+      "logo": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Смотрим 100% Праздник",
+      "group": "Comedy",
+      "logo": "https://i.imgur.com/NEcqFse.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "Твое ТВ Юмор",
+      "group": "Comedy",
+      "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "South Park (2)",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:07Z"
+    },
+    {
+      "name": "MTV Ridiculousness (2)",
+      "group": "Comedy",
+      "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:07Z"
+    },
+    {
+      "name": "Dry Bar Comedy (2)",
+      "group": "Comedy",
+      "logo": "https://i.imgur.com/3N2C60N.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
+    },
+    {
+      "name": "SNL Vault (2)",
+      "group": "Comedy",
+      "logo": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:06Z"
     },
     {
       "name": "viju TV1000 HD",
@@ -515,7 +650,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "START Air HD",
@@ -524,7 +659,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "viju TV1000 русское HD",
@@ -533,7 +668,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "viju TV1000 action HD",
@@ -542,7 +677,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "viju+ Premiere HD",
@@ -551,7 +686,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "viju+ Comedy HD",
@@ -560,7 +695,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "viju+ Serial HD",
@@ -569,7 +704,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Кинопоказ HD",
@@ -578,7 +713,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Кино ТВ HD",
@@ -587,7 +722,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Киносемья HD",
@@ -596,7 +731,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Киносвидание",
@@ -605,7 +740,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Кинопремьера HD",
@@ -614,7 +749,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Еврокино",
@@ -623,7 +758,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Киномикс",
@@ -632,7 +767,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Киносерия HD",
@@ -641,7 +776,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Amedia 1 HD",
@@ -650,7 +785,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:50Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Мосфильм. Золотая коллекция",
@@ -659,7 +794,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Любимое кино HD",
@@ -668,7 +803,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Советское кино HD",
@@ -677,7 +812,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Классика кино HD",
@@ -686,7 +821,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": ".black HD",
@@ -695,7 +830,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": ".red HD",
@@ -704,7 +839,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Bollywood HD",
@@ -713,7 +848,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "City Eden KinoAsia HD",
@@ -722,7 +857,7 @@
       "ok": false,
       "http": 503,
       "error": "HTTP 503",
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "City Eden KinoFantastika HD",
@@ -731,7 +866,7 @@
       "ok": false,
       "http": 503,
       "error": "HTTP 503",
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "City Eden KinoKlassika HD",
@@ -740,7 +875,7 @@
       "ok": false,
       "http": 503,
       "error": "HTTP 503",
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:07Z"
     },
     {
       "name": "Наш Кинопоказ HD",
@@ -749,7 +884,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "КиноМеню HD",
@@ -758,7 +893,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Киносезон HD",
@@ -767,7 +902,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "viju TV1000 HD (2)",
@@ -776,16 +911,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
-      "name": "START Air HD (2)",
+      "name": "viju TV1000 русское HD (2)",
       "group": "Russische Filme",
-      "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
+      "logo": "https://ngrch.github.io/iptv/logos/viju_russkoe.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "viju TV1000 action HD (2)",
@@ -794,7 +929,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "viju+ Comedy HD (2)",
@@ -803,16 +938,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
-      "name": "Кинопоказ HD (2)",
+      "name": "Кино ТВ HD (2)",
       "group": "Russische Filme",
-      "logo": "https://i.imgur.com/nNjMyAq.png",
+      "logo": "https://i.imgur.com/sMpamNO.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Киносемья HD (2)",
@@ -821,7 +956,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Кинопремьера HD (2)",
@@ -830,34 +965,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
-    },
-    {
-      "name": "Киномикс (2)",
-      "group": "Russische Filme",
-      "logo": "https://i.imgur.com/D4q2XUT.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
-    },
-    {
-      "name": "Киносерия HD (2)",
-      "group": "Russische Filme",
-      "logo": "https://ngrch.github.io/iptv/logos/kinoseria.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
-    },
-    {
-      "name": "Любимое кино HD (2)",
-      "group": "Russische Filme",
-      "logo": "https://i.imgur.com/iKPfM5K.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:51Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Классика кино HD (2)",
@@ -866,7 +974,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": ".red HD (2)",
@@ -875,7 +983,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:59Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "viju+ Serial HD",
@@ -884,7 +992,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Киносерия HD",
@@ -893,7 +1001,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:08Z"
     },
     {
       "name": "Честный детектив HD",
@@ -902,7 +1010,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
+    },
+    {
+      "name": "Честный детектив HD (2)",
+      "group": "Russische Serien",
+      "logo": "https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Советское кино HD",
@@ -911,7 +1028,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Россия К HD",
@@ -920,7 +1037,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Классика кино HD",
@@ -929,7 +1046,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "Союзмультфильм HD",
@@ -938,7 +1055,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
+    },
+    {
+      "name": "Классика кино HD (2)",
+      "group": "Russische Klassik",
+      "logo": "https://i.imgur.com/bMLz7xx.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "100% Классика HD",
@@ -947,7 +1073,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Classic Music HD",
@@ -956,7 +1082,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Russian MusicBox HD",
@@ -965,7 +1091,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "МузСоюз HD",
@@ -974,7 +1100,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Mezzo Live HD",
@@ -983,7 +1109,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Bridge Deluxe HD",
@@ -992,7 +1118,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "Stingray Classica HD",
@@ -1001,7 +1127,43 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
+    },
+    {
+      "name": "100% Классика HD (2)",
+      "group": "Russische Musik",
+      "logo": "https://i.imgur.com/aASNpKq.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:09Z"
+    },
+    {
+      "name": "МузСоюз HD (2)",
+      "group": "Russische Musik",
+      "logo": "https://i.imgur.com/Puk1Bhx.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:09Z"
+    },
+    {
+      "name": "Bridge Deluxe HD (2)",
+      "group": "Russische Musik",
+      "logo": "https://i.imgur.com/EazL8w7.png",
+      "ok": false,
+      "http": null,
+      "error": "Zeitüberschreitung",
+      "checked_at": "2026-11-02T23:02:19Z"
+    },
+    {
+      "name": "Stingray Classica HD (2)",
+      "group": "Russische Musik",
+      "logo": "https://i.imgur.com/bLjmQTU.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "Das Erste HD",
@@ -1010,7 +1172,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ZDF HD",
@@ -1019,7 +1181,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "RTL",
@@ -1028,7 +1190,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:52Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "SAT.1 HD",
@@ -1037,7 +1199,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "ProSieben HD",
@@ -1046,7 +1208,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "VOX",
@@ -1055,7 +1217,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "kabel eins HD",
@@ -1064,7 +1226,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "RTLZWEI",
@@ -1073,7 +1235,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "SUPER RTL",
@@ -1082,7 +1244,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "arte HD",
@@ -1091,7 +1253,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "3sat HD",
@@ -1100,7 +1262,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "phoenix HD",
@@ -1109,7 +1271,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:09Z"
     },
     {
       "name": "tagesschau24 HD",
@@ -1118,7 +1280,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ZDFneo HD",
@@ -1127,7 +1289,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ZDFinfo HD",
@@ -1136,7 +1298,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ONE HD",
@@ -1145,7 +1307,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "KiKA HD",
@@ -1154,7 +1316,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "WDR HD",
@@ -1163,7 +1325,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "NDR HD",
@@ -1172,7 +1334,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "BR Fernsehen HD",
@@ -1181,7 +1343,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "SWR HD",
@@ -1190,7 +1352,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "MDR HD",
@@ -1199,7 +1361,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "hr-fernsehen HD",
@@ -1208,7 +1370,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "rbb HD",
@@ -1217,7 +1379,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "n-tv",
@@ -1226,7 +1388,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "Comedy Central HD",
@@ -1235,7 +1397,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "WELT HD",
@@ -1244,7 +1406,7 @@
       "ok": false,
       "http": 401,
       "error": "HTTP 401",
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "DMAX",
@@ -1253,7 +1415,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "sixx HD",
@@ -1262,7 +1424,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:53Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ProSieben MAXX",
@@ -1271,7 +1433,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "SAT.1 Gold",
@@ -1280,7 +1442,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "ARD-alpha HD",
@@ -1289,7 +1451,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "SR Fernsehen HD",
@@ -1298,7 +1460,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "Radio Bremen TV HD",
@@ -1307,7 +1469,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "Nitro",
@@ -1316,7 +1478,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "Deutsche Welle HD",
@@ -1325,7 +1487,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "Welt der Wunder HD",
@@ -1334,16 +1496,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
-      "name": "RTL (2)",
+      "name": "Das Erste HD (2)",
       "group": "Deutsche Sender",
-      "logo": "https://i.imgur.com/94K94k2.png",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "ZDF HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",
       "ok": false,
-      "http": null,
-      "error": "Zeitüberschreitung",
-      "checked_at": "2026-11-02T07:00:04Z"
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "SAT.1 HD (2)",
@@ -1352,7 +1523,7 @@
       "ok": false,
       "http": null,
       "error": "Zeitüberschreitung",
-      "checked_at": "2026-11-02T07:00:04Z"
+      "checked_at": "2026-11-02T23:02:20Z"
     },
     {
       "name": "ProSieben HD (2)",
@@ -1361,16 +1532,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
-    },
-    {
-      "name": "VOX (2)",
-      "group": "Deutsche Sender",
-      "logo": "https://i.imgur.com/QPcmfZb.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
       "name": "kabel eins HD (2)",
@@ -1379,25 +1541,43 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:10Z"
     },
     {
-      "name": "RTLZWEI (2)",
+      "name": "arte HD (2)",
       "group": "Deutsche Sender",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:10Z"
+    },
+    {
+      "name": "3sat HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:10Z"
+    },
+    {
+      "name": "phoenix HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:10Z"
+    },
+    {
+      "name": "tagesschau24 HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
-    },
-    {
-      "name": "SUPER RTL (2)",
-      "group": "Deutsche Sender",
-      "logo": "https://i.imgur.com/KbdK8t9.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "ZDFneo HD (2)",
@@ -1406,7 +1586,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "ZDFinfo HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "ONE HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "KiKA HD (2)",
@@ -1415,7 +1613,34 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "WDR HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "NDR HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "BR Fernsehen HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "SWR HD (2)",
@@ -1424,7 +1649,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "MDR HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "hr-fernsehen HD (2)",
@@ -1433,16 +1667,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
-      "name": "n-tv (2)",
+      "name": "rbb HD (2)",
       "group": "Deutsche Sender",
-      "logo": "https://i.imgur.com/9r1BKzK.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:54Z"
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "WELT HD (2)",
@@ -1451,7 +1685,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:54Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "sixx HD (2)",
@@ -1460,25 +1694,43 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
-      "name": "SAT.1 Gold (2)",
+      "name": "ARD-alpha HD (2)",
       "group": "Deutsche Sender",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
-      "name": "Nitro (2)",
+      "name": "SR Fernsehen HD (2)",
       "group": "Deutsche Sender",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "Radio Bremen TV HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:11Z"
+    },
+    {
+      "name": "Welt der Wunder HD (2)",
+      "group": "Deutsche Sender",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "Pluto TV Polizeiserien HD",
@@ -1487,7 +1739,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Pluto TV Serien HD",
@@ -1496,16 +1748,16 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "Pluto TV Historische Serien HD",
       "group": "Deutsche Serien",
       "logo": "https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "ok": false,
+      "http": 404,
+      "error": "HTTP 404",
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Pluto TV Western Serien HD",
@@ -1514,7 +1766,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "Pluto TV Polizeiserien HD (2)",
+      "group": "Deutsche Serien",
+      "logo": "https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "Pluto TV Serien HD (2)",
+      "group": "Deutsche Serien",
+      "logo": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "ARD-alpha HD",
@@ -1523,7 +1793,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "3sat HD",
@@ -1532,7 +1802,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "arte HD",
@@ -1541,7 +1811,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:11Z"
     },
     {
       "name": "BR Fernsehen HD",
@@ -1550,7 +1820,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "MDR HD",
@@ -1559,7 +1829,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "SWR HD",
@@ -1568,7 +1838,7 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "NDR HD",
@@ -1577,7 +1847,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "WDR HD",
@@ -1586,7 +1856,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "hr-fernsehen HD",
@@ -1595,7 +1865,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "rbb HD",
@@ -1604,16 +1874,16 @@
       "ok": false,
       "http": 403,
       "error": "HTTP 403",
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Pluto TV Historische Serien HD",
       "group": "Deutsche Klassik",
       "logo": "https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png",
-      "ok": true,
-      "http": 200,
-      "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "ok": false,
+      "http": 404,
+      "error": "HTTP 404",
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Grjngo Western HD",
@@ -1622,7 +1892,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Autentic History HD",
@@ -1631,7 +1901,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:55Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "KulturMD HD",
@@ -1640,7 +1910,115 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "ARD-alpha HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "3sat HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "arte HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "BR Fernsehen HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "MDR HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "SWR HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "NDR HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "WDR HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "hr-fernsehen HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "rbb HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",
+      "ok": false,
+      "http": 403,
+      "error": "HTTP 403",
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "Grjngo Western HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://i.imgur.com/wFqhK3p.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:12Z"
+    },
+    {
+      "name": "KulturMD HD (2)",
+      "group": "Deutsche Klassik",
+      "logo": "https://i.imgur.com/io7cJ1Z.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Volksmusik TV HD",
@@ -1649,7 +2027,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Folx Music Television HD",
@@ -1658,7 +2036,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Deutsches Musik Fernsehen HD",
@@ -1667,7 +2045,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Deluxe Music HD",
@@ -1676,7 +2054,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Deluxe Lounge HD",
@@ -1685,7 +2063,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Stingray Classica HD",
@@ -1694,7 +2072,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:12Z"
     },
     {
       "name": "Mezzo Live HD",
@@ -1703,7 +2081,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Bibel TV Musik HD",
@@ -1712,7 +2090,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "RADIO DISCOunt TV HD",
@@ -1721,7 +2099,70 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Volksmusik TV HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/EsWuCJ3.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Folx Music Television HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/ze04puX.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Deutsches Musik Fernsehen HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/sJaBU7X.jpeg",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Deluxe Music HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/HimuPPb.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Deluxe Lounge HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/pgCA35z.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:14Z"
+    },
+    {
+      "name": "Stingray Classica HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/bLjmQTU.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
+    },
+    {
+      "name": "Bibel TV Musik HD (2)",
+      "group": "Deutsche Musik",
+      "logo": "https://i.imgur.com/yIqOcP5.png",
+      "ok": true,
+      "http": 200,
+      "error": null,
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Panoramabilder HD",
@@ -1730,7 +2171,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Живая природа HD",
@@ -1739,7 +2180,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Travel Channel HD",
@@ -1748,7 +2189,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Travelxp HD",
@@ -1757,7 +2198,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Love Nature HD",
@@ -1766,7 +2207,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "NatureTime HD",
@@ -1775,7 +2216,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "viju Nature HD",
@@ -1784,7 +2225,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "viju Explore HD",
@@ -1793,7 +2234,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:56Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Animal Planet HD",
@@ -1802,7 +2243,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "National Geographic Wild HD",
@@ -1811,7 +2252,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "BBC Earth HD",
@@ -1820,7 +2261,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:13Z"
     },
     {
       "name": "Моя стихия HD",
@@ -1829,7 +2270,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Outside TV HD",
@@ -1838,7 +2279,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Waypoint TV HD",
@@ -1847,7 +2288,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Relaxon HD",
@@ -1856,7 +2297,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Schladming-Dachstein TV HD",
@@ -1865,7 +2306,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Beach TV HD",
@@ -1874,7 +2315,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Живая природа HD (2)",
@@ -1883,7 +2324,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "Travel Channel HD (2)",
@@ -1892,7 +2333,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "viju Nature HD (2)",
@@ -1901,7 +2342,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "viju Explore HD (2)",
@@ -1910,7 +2351,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "Animal Planet HD (2)",
@@ -1919,7 +2360,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "National Geographic Wild HD (2)",
@@ -1928,7 +2369,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "Bloomberg TV+ 4K",
@@ -1937,7 +2378,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Eurosport Czechia 4K",
@@ -1946,7 +2387,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:57Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Fireplace 4K",
@@ -1955,7 +2396,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:59Z"
+      "checked_at": "2026-11-02T23:02:16Z"
     },
     {
       "name": "Hebei TV 4K",
@@ -1964,7 +2405,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:59Z"
+      "checked_at": "2026-11-02T23:02:16Z"
     },
     {
       "name": "Insight TV 4K",
@@ -1973,7 +2414,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     },
     {
       "name": "Love Nature 4K",
@@ -1982,7 +2423,7 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:15Z"
     },
     {
       "name": "tvN 환혼 4K",
@@ -1991,25 +2432,25 @@
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:59Z"
+      "checked_at": "2026-11-02T23:02:16Z"
     },
     {
       "name": "Bloomberg TV+ 4K (2)",
       "group": "4K",
-      "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png",
+      "logo": "https://i.imgur.com/OuogLHx.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T07:00:00Z"
+      "checked_at": "2026-11-02T23:02:16Z"
     },
     {
       "name": "Love Nature 4K (2)",
       "group": "4K",
-      "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+      "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png",
       "ok": true,
       "http": 200,
       "error": null,
-      "checked_at": "2026-11-02T06:59:58Z"
+      "checked_at": "2026-11-02T23:02:14Z"
     }
   ]
 }
