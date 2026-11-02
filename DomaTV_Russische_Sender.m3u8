@@ -52,7 +52,7 @@ http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Russische Sender",Матч! Футбол 3 HD
 http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="Russische Sender",Матч! Премьер
-http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Russische Sender",viju+ Sport HD
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Russische Sender",Eurosport 1 HD
@@ -75,32 +75,26 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 http://stream1.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 tvg-name="НТВ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD (2)
 http://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=http
-#EXTINF:-1 tvg-name="СТС HD (2)" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Russische Sender",СТС HD (2)
-http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD (2)
 http://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=http
-#EXTINF:-1 tvg-name="Россия 24 (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_24.png" group-title="Russische Sender",Россия 24 (2)
-http://stream2.cinerama.uz/1021/index.m3u8
+#EXTINF:-1 tvg-name="Звезда HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD (2)
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-name="Россия К HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Sender",Россия К HD (2)
-http://stream.mcquack.net/229/index.m3u8
+http://stream1.cinerama.uz/1048/index.m3u8
 #EXTINF:-1 tvg-name="ТВ Центр HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD (2)
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Карусель (2)" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png" group-title="Russische Sender",Карусель (2)
-http://stream2.cinerama.uz/1034/index.m3u8
+http://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Мир HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир HD (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="Ю HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/you.png" group-title="Russische Sender",Ю HD (2)
-https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-name="Суббота! HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="Russische Sender",Суббота! HD (2)
+http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 tvg-name="2x2 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png" group-title="Russische Sender",2x2 HD (2)
 http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=http
-#EXTINF:-1 tvg-name="ТНТ4 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png" group-title="Russische Sender",ТНТ4 HD (2)
-http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 tvg-name="Мир 24 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир 24 HD (2)
 http://stream2.cinerama.uz/1219/index.m3u8
 #EXTINF:-1 tvg-name="РБК HD (2)" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Russische Sender",РБК HD (2)
 http://176.118.197.101/RBK/index.m3u8
-#EXTINF:-1 tvg-name="Матч! Футбол 3 HD (2)" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Russische Sender",Матч! Футбол 3 HD (2)
-http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 tvg-name="Известия HD (2)" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Russische Sender",Известия HD (2)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-name="viju+ Sport HD (2)" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Russische Sender",viju+ Sport HD (2)
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-name="RT Doc HD (2)" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Russische Sender",RT Doc HD (2)
@@ -111,6 +105,8 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="История HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png" group-title="Russische Sender",История HD (2)
 http://stream2.cinerama.uz/1046/index.m3u8
+#EXTINF:-1 tvg-name="Euronews HD (2)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Russische Sender",Euronews HD (2)
+http://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="Russische Filme",viju TV1000 HD
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-name="START Air HD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Russische Filme",START Air HD
@@ -132,19 +128,19 @@ http://176.118.197.101/KinoTvHD/index.m3u8
 #EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Russische Filme",Киносемья HD
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Russische Filme",Киносвидание
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
+http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 tvg-name="Кинопремьера HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="Russische Filme",Кинопремьера HD
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Russische Filme",Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
+http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Russische Filme",Киномикс
-http://176.118.197.101/Kinomix/index.m3u8
+http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Filme",Киносерия HD
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-name="Amedia 1 HD" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Russische Filme",Amedia 1 HD
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png" group-title="Russische Filme",Мосфильм. Золотая коллекция
-http://185.121.1.163:8083/Mosfilm/index.m3u8
+http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-name="Любимое кино HD" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Russische Filme",Любимое кино HD
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-name="Советское кино HD" tvg-logo="https://i.imgur.com/uqnTowX.png" group-title="Russische Filme",Советское кино HD
@@ -171,24 +167,22 @@ http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="Russische Filme",viju TV1000 HD (2)
 http://stream2.cinerama.uz/1058/index.m3u8
-#EXTINF:-1 tvg-name="START Air HD (2)" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Russische Filme",START Air HD (2)
-http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 русское HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_russkoe.png" group-title="Russische Filme",viju TV1000 русское HD (2)
+http://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-name="viju TV1000 action HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png" group-title="Russische Filme",viju TV1000 action HD (2)
 http://stream2.cinerama.uz/1225/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Comedy HD (2)" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Russische Filme",viju+ Comedy HD (2)
 http://stream1.cinerama.uz/1061/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ HD (2)" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Russische Filme",Кинопоказ HD (2)
-http://176.118.197.101/Kinopokaz/index.m3u8
+http://stream1.cinerama.uz/1057/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD (2)" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Russische Filme",Кино ТВ HD (2)
+http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Киносемья HD (2)" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Russische Filme",Киносемья HD (2)
 http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-name="Кинопремьера HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png" group-title="Russische Filme",Кинопремьера HD (2)
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
 #EXTINF:-1 tvg-name="Киномикс (2)" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Russische Filme",Киномикс (2)
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-name="Киносерия HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Filme",Киносерия HD (2)
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-name="Любимое кино HD (2)" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="Russische Filme",Любимое кино HD (2)
-https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.ts.m3u8?lb_backend_hint=6
+http://stream1.cinerama.uz/1233/index.m3u8
 #EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Filme",Классика кино HD (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-name=".red HD (2)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russische Filme",.red HD (2)
@@ -199,6 +193,8 @@ http://stream.mcquack.net/311/index.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-name="Честный детектив HD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Russische Serien",Честный детектив HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Честный детектив HD (2)" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Russische Serien",Честный детектив HD (2)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Советское кино HD" tvg-logo="https://i.imgur.com/uqnTowX.png" group-title="Russische Klassik",Советское кино HD
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 tvg-name="Россия К HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Klassik",Россия К HD
@@ -207,6 +203,10 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 tvg-name="Союзмультфильм HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/1/13/Soyuzmultfilm_Logo%282%29.svg/330px-Soyuzmultfilm_Logo%282%29.svg.png" group-title="Russische Klassik",Союзмультфильм HD
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-name="Россия К HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Klassik",Россия К HD (2)
+http://stream1.cinerama.uz/1048/index.m3u8
+#EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Klassik",Классика кино HD (2)
+https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-name="100% Классика HD" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="Russische Musik",100% Классика HD
 https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Classic Music HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Russische Musik",Classic Music HD
@@ -221,6 +221,14 @@ http://stream.mcquack.net/276/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="100% Классика HD (2)" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="Russische Musik",100% Классика HD (2)
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
+https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="Deutsche Sender",ZDF HD
@@ -295,38 +303,58 @@ http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 http://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-name="Welt der Wunder HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png" group-title="Deutsche Sender",Welt der Wunder HD
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL (2)" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Deutsche Sender",RTL (2)
-http://88.212.7.11/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD (2)
+http://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png" group-title="Deutsche Sender",ZDF HD (2)
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="SAT.1 HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/960px-Neues_Sat._1_Logo_transparent.png" group-title="Deutsche Sender",SAT.1 HD (2)
 http://88.212.7.11/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="ProSieben HD (2)" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Deutsche Sender",ProSieben HD (2)
 http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="VOX (2)" tvg-logo="https://i.imgur.com/QPcmfZb.png" group-title="Deutsche Sender",VOX (2)
-http://88.212.15.50/live/test_vox_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="kabel eins HD (2)" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="Deutsche Sender",kabel eins HD (2)
 http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="RTLZWEI (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Deutsche Sender",RTLZWEI (2)
-http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="SUPER RTL (2)" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Deutsche Sender",SUPER RTL (2)
-http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="arte HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="Deutsche Sender",arte HD (2)
+http://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="3sat HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="Deutsche Sender",3sat HD (2)
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="Deutsche Sender",phoenix HD (2)
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24 HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="Deutsche Sender",tagesschau24 HD (2)
+http://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="Deutsche Sender",ZDFneo HD (2)
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" group-title="Deutsche Sender",ZDFinfo HD (2)
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ONE HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="Deutsche Sender",ONE HD (2)
+http://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="KiKA HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png" group-title="Deutsche Sender",KiKA HD (2)
 http://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-name="WDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="Deutsche Sender",WDR HD (2)
+http://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="NDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="Deutsche Sender",NDR HD (2)
+http://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutsche Sender",BR Fernsehen HD (2)
+http://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="SWR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="Deutsche Sender",SWR HD (2)
 http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="MDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="Deutsche Sender",MDR HD (2)
+http://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="Deutsche Sender",hr-fernsehen HD (2)
 http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-name="n-tv (2)" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Deutsche Sender",n-tv (2)
-http://88.212.15.50/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="rbb HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Deutsche Sender",rbb HD (2)
+http://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="WELT HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png" group-title="Deutsche Sender",WELT HD (2)
 http://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-name="sixx HD (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="Deutsche Sender",sixx HD (2)
 http://88.212.15.50/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="SAT.1 Gold (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="Deutsche Sender",SAT.1 Gold (2)
-http://88.212.15.50/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="Nitro (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Deutsche Sender",Nitro (2)
-http://88.212.15.50/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Sender",ARD-alpha HD (2)
+http://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png" group-title="Deutsche Sender",SR Fernsehen HD (2)
+http://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="Deutsche Sender",Radio Bremen TV HD (2)
+http://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png" group-title="Deutsche Sender",Welt der Wunder HD (2)
+http://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Polizeiserien HD" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Deutsche Serien",Pluto TV Polizeiserien HD
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serien HD" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="Deutsche Serien",Pluto TV Serien HD
@@ -335,6 +363,14 @@ https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Western Serien HD" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="Deutsche Serien",Pluto TV Western Serien HD
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Polizeiserien HD (2)" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Deutsche Serien",Pluto TV Polizeiserien HD (2)
+http://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="Deutsche Serien",Pluto TV Serien HD (2)
+http://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Serien",Pluto TV Historische Serien HD (2)
+http://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Western Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="Deutsche Serien",Pluto TV Western Serien HD (2)
+http://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Klassik",ARD-alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="3sat HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="Deutsche Klassik",3sat HD
@@ -363,6 +399,32 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-name="KulturMD HD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Deutsche Klassik",KulturMD HD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Klassik",ARD-alpha HD (2)
+http://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="3sat HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png" group-title="Deutsche Klassik",3sat HD (2)
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="arte HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png" group-title="Deutsche Klassik",arte HD (2)
+http://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png" group-title="Deutsche Klassik",BR Fernsehen HD (2)
+http://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png" group-title="Deutsche Klassik",MDR HD (2)
+http://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="SWR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="Deutsche Klassik",SWR HD (2)
+http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="NDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png" group-title="Deutsche Klassik",NDR HD (2)
+http://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="WDR HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="Deutsche Klassik",WDR HD (2)
+http://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png" group-title="Deutsche Klassik",hr-fernsehen HD (2)
+http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-name="rbb HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Deutsche Klassik",rbb HD (2)
+http://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Klassik",Pluto TV Historische Serien HD (2)
+http://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 tvg-name="Grjngo Western HD (2)" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="Deutsche Klassik",Grjngo Western HD (2)
+http://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="KulturMD HD (2)" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Deutsche Klassik",KulturMD HD (2)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:-1 tvg-name="Volksmusik TV HD" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Deutsche Musik",Volksmusik TV HD
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Folx Music Television HD" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Deutsche Musik",Folx Music Television HD
@@ -381,6 +443,20 @@ http://stream.mcquack.net/276/index.m3u8
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="RADIO DISCOunt TV HD" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="Deutsche Musik",RADIO DISCOunt TV HD
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-name="Volksmusik TV HD (2)" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Deutsche Musik",Volksmusik TV HD (2)
+http://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Folx Music Television HD (2)" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Deutsche Musik",Folx Music Television HD (2)
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen HD (2)" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="Deutsche Musik",Deutsches Musik Fernsehen HD (2)
+http://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music HD (2)" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Deutsche Musik",Deluxe Music HD (2)
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD (2)" tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="Deutsche Musik",Deluxe Lounge HD (2)
+http://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Deutsche Musik",Stingray Classica HD (2)
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Musik HD (2)" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Deutsche Musik",Bibel TV Musik HD (2)
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Panoramabilder HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" group-title="Panorama HD",Panoramabilder HD
 http://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
 #EXTINF:-1 tvg-name="Живая природа HD" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Panorama HD",Живая природа HD
@@ -441,7 +517,7 @@ http://stream.mcquack.net/361/index.m3u8
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1 tvg-name="tvN 환혼 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20260422T013953SQUARE.png" group-title="4K",tvN 환혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
-#EXTINF:-1 tvg-name="Bloomberg TV+ 4K (2)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20260422T012620SQUARE.png" group-title="4K",Bloomberg TV+ 4K (2)
+#EXTINF:-1 tvg-name="Bloomberg TV+ 4K (2)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="4K",Bloomberg TV+ 4K (2)
 https://jmp2.uk/stvp-KRBB500039Y5
-#EXTINF:-1 tvg-name="Love Nature 4K (2)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="4K",Love Nature 4K (2)
+#EXTINF:-1 tvg-name="Love Nature 4K (2)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20260421T142045SQUARE.png" group-title="4K",Love Nature 4K (2)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
