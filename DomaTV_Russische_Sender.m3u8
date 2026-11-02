@@ -83,6 +83,8 @@ http://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-name="Звезда HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD (2)
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-name="Россия К HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Sender",Россия К HD (2)
+http://stream1.cinerama.uz/1048/index.m3u8
 #EXTINF:-1 tvg-name="ТВ Центр HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD (2)
 http://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Мир HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир HD (2)
@@ -109,6 +111,36 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 http://stream2.cinerama.uz/1046/index.m3u8
 #EXTINF:-1 tvg-name="Euronews HD (2)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Russische Sender",Euronews HD (2)
 http://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG_1789028182543.png" group-title="Comedy",Comedy Central Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Deutsche Comedy" tvg-logo="https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png" group-title="Comedy",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Stand-up Comedy" tvg-logo="https://images.pluto.tv/channels/663e09b341af640008c1b68c/colorLogoPNG.png" group-title="Comedy",Pluto TV Stand-up Comedy
+https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
+#EXTINF:-1 tvg-name="LOL Just For Laughs" tvg-logo="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/colorLogoPNG.png" group-title="Comedy",LOL Just For Laughs
+https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
+#EXTINF:-1 tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="Comedy",South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" group-title="Comedy",MTV Ridiculousness
+https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+#EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Comedy",Comedy Dynamics
+https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Dry Bar Comedy" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SNL Vault" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% Праздник" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="Comedy",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Твое ТВ Юмор" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" group-title="Comedy",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="South Park (2)" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="Comedy",South Park (2)
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (2)" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" group-title="Comedy",MTV Ridiculousness (2)
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 tvg-name="Dry Bar Comedy (2)" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy (2)
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SNL Vault (2)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault (2)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-name="viju TV1000 HD" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png" group-title="Russische Filme",viju TV1000 HD
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-name="START Air HD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Russische Filme",START Air HD
@@ -188,7 +220,7 @@ http://stream1.cinerama.uz/1233/index.m3u8
 #EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Filme",Классика кино HD (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-name=".red HD (2)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Russische Filme",.red HD (2)
-http://5.188.159.128:8070/RED/index.m3u8
+http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Russische Serien",viju+ Serial HD
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Russische Serien",Киносерия HD
@@ -205,6 +237,8 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 tvg-name="Союзмультфильм HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/1/13/Soyuzmultfilm_Logo%282%29.svg/330px-Soyuzmultfilm_Logo%282%29.svg.png" group-title="Russische Klassik",Союзмультфильм HD
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-name="Россия К HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Klassik",Россия К HD (2)
+http://stream1.cinerama.uz/1048/index.m3u8
 #EXTINF:-1 tvg-name="Классика кино HD (2)" tvg-logo="https://i.imgur.com/bMLz7xx.png" group-title="Russische Klassik",Классика кино HD (2)
 https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:-1 tvg-name="100% Классика HD" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="Russische Musik",100% Классика HD
@@ -225,6 +259,8 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
+https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
@@ -365,8 +401,6 @@ https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 http://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="Deutsche Serien",Pluto TV Serien HD (2)
 http://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Serien",Pluto TV Historische Serien HD (2)
-http://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Western Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" group-title="Deutsche Serien",Pluto TV Western Serien HD (2)
 http://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="Deutsche Klassik",ARD-alpha HD
@@ -417,8 +451,6 @@ http://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 http://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 tvg-name="rbb HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png" group-title="Deutsche Klassik",rbb HD (2)
 http://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Historische Serien HD (2)" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Klassik",Pluto TV Historische Serien HD (2)
-http://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 tvg-name="Grjngo Western HD (2)" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="Deutsche Klassik",Grjngo Western HD (2)
 http://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="KulturMD HD (2)" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Deutsche Klassik",KulturMD HD (2)
