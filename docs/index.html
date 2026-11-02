@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Grok TV Senderliste</title>
+  <style>
+    :root {
+      --bg: #10131a;
+      --card: #1b2130;
+      --text: #f4f7fb;
+      --muted: #b7c0d0;
+      --line: #2c3548;
+      --ok: #2fce7a;
+      --bad: #ff5a6a;
+      --unknown: #9aa3b5;
+      --input: #121722;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Helvetica Neue", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 18px;
+      line-height: 1.45;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      padding: 1rem 1rem 0.9rem;
+      background: rgba(16, 19, 26, 0.96);
+      border-bottom: 1px solid var(--line);
+    }
+    h1 {
+      margin: 0;
+      font-size: 1.85rem;
+      letter-spacing: -0.02em;
+    }
+    .checked {
+      margin: 0.35rem 0 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+    .counts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-top: 0.8rem;
+    }
+    .pill {
+      background: var(--card);
+      border-radius: 999px;
+      padding: 0.35rem 0.85rem;
+      font-weight: 700;
+      font-size: 1.05rem;
+    }
+    .pill.ok { color: var(--ok); }
+    .pill.bad { color: var(--bad); }
+    .pill.unknown { color: var(--unknown); }
+    .tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.7rem;
+      margin-top: 0.85rem;
+      align-items: center;
+    }
+    input[type="search"] {
+      flex: 1 1 220px;
+      font: inherit;
+      font-size: 1.05rem;
+      color: var(--text);
+      background: var(--input);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 0.7rem 0.85rem;
+    }
+    label.toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 1.05rem;
+      color: var(--muted);
+      user-select: none;
+    }
+    label.toggle input { width: 1.15rem; height: 1.15rem; }
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1rem 1rem 2.5rem;
+    }
+    .note, .message {
+      color: var(--muted);
+      font-size: 1.05rem;
+      margin: 0.2rem 0 0.4rem;
+    }
+    h2 {
+      font-size: 1.45rem;
+      margin: 1.6rem 0 0.75rem;
+    }
+    h2 span {
+      display: block;
+      margin-top: 0.15rem;
+      color: var(--muted);
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+    .card {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      background: var(--card);
+      border-radius: 16px;
+      padding: 0.9rem 1rem;
+      min-height: 92px;
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+    .card.ok { box-shadow: inset 0 0 0 1px rgba(47, 206, 122, 0.45); }
+    .card.bad { box-shadow: inset 0 0 0 1px rgba(255, 90, 106, 0.55); }
+    .logo, .placeholder {
+      width: 72px;
+      height: 72px;
+      flex: none;
+      border-radius: 12px;
+      background: #0d1118;
+      object-fit: contain;
+    }
+    .placeholder {
+      display: grid;
+      place-items: center;
+      font-size: 1.7rem;
+      font-weight: 750;
+      color: var(--muted);
+    }
+    .name {
+      font-size: 1.22rem;
+      font-weight: 700;
+    }
+    .reason {
+      margin-top: 0.15rem;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+    .state {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      flex: none;
+      font-weight: 700;
+      font-size: 1rem;
+    }
+    .dot {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+    }
+    .dot.ok { background: var(--ok); }
+    .dot.bad { background: var(--bad); }
+    .dot.unknown { background: var(--unknown); }
+    .state.ok { color: var(--ok); }
+    .state.bad { color: var(--bad); }
+    .state.unknown { color: var(--unknown); }
+    @media (min-width: 760px) {
+      body { font-size: 19px; }
+      h1 { font-size: 2.1rem; }
+      .grid { grid-template-columns: 1fr 1fr; }
+      header, main { padding-left: 1.4rem; padding-right: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grok TV Senderliste</h1>
+    <p class="checked" id="checked">Zuletzt geprüft: wird geladen …</p>
+    <div class="counts" id="counts"></div>
+    <div class="tools">
+      <input id="search" type="search" placeholder="Sender suchen" autocomplete="off">
+      <label class="toggle">
+        <input id="only-failed" type="checkbox">
+        Nur Fehler
+      </label>
+    </div>
+  </header>
+  <main>
+    <p class="note">
+      Ein grüner Punkt bedeutet: der Sender war bei der letzten Prüfung erreichbar.
+      Ein roter Punkt bedeutet: die Prüfung hat ihn nicht erreicht.
+      Grau heißt: noch kein Ergebnis.
+      Die Prüfung läuft auf den Servern von GitHub in den USA. Manche Sender, die
+      außerhalb von Russland oder Deutschland gesperrt sind, können rot erscheinen,
+      obwohl sie zu Hause funktionieren.
+    </p>
+    <p class="message" id="message"></p>
+    <div id="groups"></div>
+  </main>
+  <script>
+    const PLAYLIST_URL = "https://raw.githubusercontent.com/abozam-eng/iptv/main/DomaTV_Russische_Sender.m3u8";
+    const STATUS_URL = "https://raw.githubusercontent.com/abozam-eng/iptv/main/status/status.json";
+
+    const checkedEl = document.getElementById("checked");
+    const countsEl = document.getElementById("counts");
+    const groupsEl = document.getElementById("groups");
+    const messageEl = document.getElementById("message");
+    const searchEl = document.getElementById("search");
+    const onlyFailedEl = document.getElementById("only-failed");
+
+    let channels = [];
+
+    function parseAttrs(line) {
+      const attrs = {};
+      const re = /([\w-]+)="([^"]*)"/g;
+      let match;
+      while ((match = re.exec(line))) attrs[match[1]] = match[2];
+      return attrs;
+    }
+
+    function parsePlaylist(text) {
+      const lines = text.split(/\r?\n/);
+      const list = [];
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line.startsWith("#EXTINF")) continue;
+        const attrs = parseAttrs(line);
+        const comma = line.indexOf(",");
+        const title = comma >= 0 ? line.slice(comma + 1).trim() : "";
+        list.push({
+          name: (attrs["tvg-name"] || title || "Unbekannt").trim(),
+          group: (attrs["group-title"] || "Ohne Gruppe").trim(),
+          logo: (attrs["tvg-logo"] || "").trim()
+        });
+      }
+      return list;
+    }
+
+    function safeLogo(url) {
+      try {
+        const parsed = new URL(url);
+        if (parsed.protocol === "https:" || parsed.protocol === "http:") return url;
+      } catch (error) {
+        return "";
+      }
+      return "";
+    }
+
+    function formatWhen(iso) {
+      if (!iso) return "noch nicht geprüft";
+      const date = new Date(iso);
+      if (Number.isNaN(date.getTime())) return iso;
+      return new Intl.DateTimeFormat("de-DE", {
+        dateStyle: "medium",
+        timeStyle: "short",
+        timeZone: "UTC"
+      }).format(date) + " UTC";
+    }
+
+    function statusOf(channel, statusMap) {
+      return statusMap.get(channel.group + "\0" + channel.name) || null;
+    }
+
+    function stateOf(entry) {
+      if (!entry) return { kind: "unknown", label: "unbekannt", reason: "" };
+      if (entry.ok) return { kind: "ok", label: "OK", reason: "" };
+      return {
+        kind: "bad",
+        label: "Fehler",
+        reason: entry.error || (entry.http ? "HTTP " + entry.http : "Fehler")
+      };
+    }
+
+    function render(statusMap, checkedAt) {
+      const query = searchEl.value.trim().toLowerCase();
+      const onlyFailed = onlyFailedEl.checked;
+      groupsEl.replaceChildren();
+      let ok = 0;
+      let bad = 0;
+      let unknown = 0;
+      let shown = 0;
+      const groups = [];
+      const byGroup = new Map();
+
+      channels.forEach(function (channel) {
+        const entry = statusOf(channel, statusMap);
+        const state = stateOf(entry);
+        if (state.kind === "ok") ok += 1;
+        else if (state.kind === "bad") bad += 1;
+        else unknown += 1;
+        if (query && channel.name.toLowerCase().indexOf(query) === -1 && channel.group.toLowerCase().indexOf(query) === -1) return;
+        if (onlyFailed && state.kind !== "bad") return;
+        if (!byGroup.has(channel.group)) {
+          byGroup.set(channel.group, []);
+          groups.push(channel.group);
+        }
+        byGroup.get(channel.group).push({ channel: channel, state: state });
+        shown += 1;
+      });
+
+      countsEl.replaceChildren();
+      [
+        [String(ok) + " OK", "ok"],
+        [String(bad) + " Fehler", "bad"],
+        [String(unknown) + " unbekannt", "unknown"]
+      ].forEach(function (item) {
+        const pill = document.createElement("span");
+        pill.className = "pill " + item[1];
+        pill.textContent = item[0];
+        countsEl.appendChild(pill);
+      });
+      checkedEl.textContent = "Zuletzt geprüft: " + formatWhen(checkedAt);
+
+      if (!shown) {
+        const empty = document.createElement("p");
+        empty.className = "message";
+        empty.textContent = channels.length
+          ? "Keine Sender für diese Auswahl."
+          : "Keine Sender gefunden.";
+        groupsEl.appendChild(empty);
+        return;
+      }
+
+      groups.forEach(function (group) {
+        const items = byGroup.get(group);
+        const heading = document.createElement("h2");
+        heading.textContent = group;
+        const sub = document.createElement("span");
+        const groupOk = items.filter(function (item) { return item.state.kind === "ok"; }).length;
+        const groupBad = items.filter(function (item) { return item.state.kind === "bad"; }).length;
+        const groupUnknown = items.length - groupOk - groupBad;
+        sub.textContent = items.length + " Sender · " + groupOk + " OK · " + groupBad + " Fehler"
+          + (groupUnknown ? " · " + groupUnknown + " unbekannt" : "");
+        heading.appendChild(sub);
+        const grid = document.createElement("div");
+        grid.className = "grid";
+        items.forEach(function (item) {
+          grid.appendChild(card(item.channel, item.state));
+        });
+        groupsEl.appendChild(heading);
+        groupsEl.appendChild(grid);
+      });
+    }
+
+    function card(channel, state) {
+      const article = document.createElement("article");
+      article.className = "card " + state.kind;
+      const logoUrl = safeLogo(channel.logo);
+      if (logoUrl) {
+        const img = document.createElement("img");
+        img.className = "logo";
+        img.alt = "";
+        img.referrerPolicy = "no-referrer";
+        img.src = logoUrl;
+        img.addEventListener("error", function () {
+          img.replaceWith(placeholder(channel.name));
+        });
+        article.appendChild(img);
+      } else {
+        article.appendChild(placeholder(channel.name));
+      }
+      const text = document.createElement("div");
+      const name = document.createElement("div");
+      name.className = "name";
+      name.textContent = channel.name;
+      text.appendChild(name);
+      if (state.reason) {
+        const reason = document.createElement("div");
+        reason.className = "reason";
+        reason.textContent = state.reason;
+        text.appendChild(reason);
+      }
+      article.appendChild(text);
+      const badge = document.createElement("div");
+      badge.className = "state " + state.kind;
+      const dot = document.createElement("span");
+      dot.className = "dot " + state.kind;
+      dot.setAttribute("aria-label", state.label);
+      const label = document.createElement("span");
+      label.textContent = state.label;
+      badge.appendChild(dot);
+      badge.appendChild(label);
+      article.appendChild(badge);
+      return article;
+    }
+
+    function placeholder(name) {
+      const box = document.createElement("div");
+      box.className = "placeholder";
+      box.textContent = (name || "?").trim().charAt(0) || "?";
+      return box;
+    }
+
+    async function load() {
+      const bust = "?t=" + Date.now();
+      let playlistText = "";
+      let status = null;
+      try {
+        const response = await fetch(PLAYLIST_URL + bust, { cache: "no-store" });
+        if (!response.ok) throw new Error("playlist");
+        playlistText = await response.text();
+      } catch (error) {
+        messageEl.textContent = "Die Senderliste konnte nicht geladen werden. Bitte später erneut versuchen.";
+        checkedEl.textContent = "Zuletzt geprüft: unbekannt";
+        return;
+      }
+      channels = parsePlaylist(playlistText);
+      playlistText = "";
+      try {
+        const response = await fetch(STATUS_URL + bust, { cache: "no-store" });
+        if (response.ok) status = await response.json();
+      } catch (error) {
+        status = null;
+      }
+      const statusMap = new Map();
+      let checkedAt = "";
+      if (status && Array.isArray(status.entries)) {
+        checkedAt = status.checked_at || "";
+        status.entries.forEach(function (entry) {
+          if (!entry || !entry.name) return;
+          statusMap.set((entry.group || "Ohne Gruppe") + "\0" + entry.name, entry);
+        });
+        if (!checkedAt && status.entries.length) checkedAt = status.entries[0].checked_at || "";
+      } else {
+        messageEl.textContent = "Noch kein Prüfergebnis. Die Punkte werden grau angezeigt, bis die tägliche Prüfung gelaufen ist.";
+      }
+      render(statusMap, checkedAt);
+      searchEl.addEventListener("input", function () { render(statusMap, checkedAt); });
+      onlyFailedEl.addEventListener("change", function () { render(statusMap, checkedAt); });
+    }
+
+    load();
+  </script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+# Tägliche Prüfung der Sender in DomaTV_Russische_Sender.m3u8.
+# Die Playlist selbst wird weder geändert noch committet.
+# Es wird nur der Ordner status/ geschrieben, und nur wenn sich etwas geändert hat.
+
+name: Tägliche Stream-Prüfung
+
+on:
+  schedule:
+    # Einmal täglich um 04:00 UTC (05:00 Uhr deutsche Winterzeit).
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-streams
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Playlist-Prüfsumme merken
+        run: sha256sum DomaTV_Russische_Sender.m3u8 | tee /tmp/playlist.sha256
+
+      - name: Streams prüfen
+        run: python3 tools/check_streams.py
+
+      - name: Playlist unverändert lassen
+        run: |
+          sha256sum -c /tmp/playlist.sha256
+          if ! git diff --quiet -- DomaTV_Russische_Sender.m3u8; then
+            echo "Die Playlist wurde verändert. Abbruch, nichts wird committet." >&2
+            exit 1
+          fi
+
+      - name: Nur status/ committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- status
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen im Status."
+            exit 0
+          fi
+          bad=$(git diff --cached --name-only | grep -v '^status/' || true)
+          if [ -n "$bad" ]; then
+            echo "Unerwartete Dateien im Commit:" >&2
+            printf '%s\n' "$bad" >&2
+            exit 1
+          fi
+          git commit -m "Update stream status"
+          git push
