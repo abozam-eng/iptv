@@ -1,32 +1,29 @@
 # Stream-Bericht
 
-**Datum:** 02.11.2026, 23:02 UTC
+**Datum:** 03.11.2026, 20:50 UTC
 
-**Geprüft:** 272 Sender · **OK:** 234 · **Fehler:** 38
+**Geprüft:** 271 Sender · **OK:** 234 · **Fehler:** 37
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 56 | 0 |
-| Comedy | 15 | 0 |
-| Russische Filme | 35 | 3 |
+| Russische Sender | 55 | 1 |
+| Comedy | 14 | 0 |
+| Russische Filme | 38 | 0 |
 | Russische Serien | 4 | 0 |
 | Russische Klassik | 5 | 0 |
-| Russische Musik | 10 | 1 |
+| Russische Musik | 11 | 0 |
 | Deutsche Sender | 40 | 23 |
 | Deutsche Serien | 5 | 1 |
-| Deutsche Klassik | 16 | 10 |
+| Deutsche Klassik | 14 | 12 |
 | Deutsche Musik | 16 | 0 |
 | Panorama HD | 23 | 0 |
 | 4K | 9 | 0 |
 
 ## Fehlerhafte Sender
 
-- **City Eden KinoAsia HD** (Russische Filme) — HTTP 503
-- **City Eden KinoFantastika HD** (Russische Filme) — HTTP 503
-- **City Eden KinoKlassika HD** (Russische Filme) — HTTP 503
-- **Bridge Deluxe HD (2)** (Russische Musik) — Zeitüberschreitung
+- **Первый канал HD** (Russische Sender) — HTTP 410
 - **ZDF HD** (Deutsche Sender) — HTTP 403
 - **arte HD** (Deutsche Sender) — HTTP 403
 - **3sat HD** (Deutsche Sender) — HTTP 403
@@ -57,10 +54,12 @@
 - **SWR HD** (Deutsche Klassik) — HTTP 403
 - **rbb HD** (Deutsche Klassik) — HTTP 403
 - **Pluto TV Historische Serien HD** (Deutsche Klassik) — HTTP 404
+- **KulturMD HD** (Deutsche Klassik) — HTTP 404
 - **3sat HD (2)** (Deutsche Klassik) — HTTP 403
 - **arte HD (2)** (Deutsche Klassik) — HTTP 403
 - **MDR HD (2)** (Deutsche Klassik) — HTTP 403
 - **rbb HD (2)** (Deutsche Klassik) — HTTP 403
+- **KulturMD HD (2)** (Deutsche Klassik) — HTTP 404
 
 ---
 
