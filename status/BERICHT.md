@@ -1,8 +1,8 @@
 # Stream-Bericht
 
-**Datum:** 04.11.2026, 21:06 UTC
+**Datum:** 05.11.2026, 21:23 UTC
 
-**Geprüft:** 271 Sender · **OK:** 236 · **Fehler:** 35
+**Geprüft:** 271 Sender · **OK:** 234 · **Fehler:** 37
 
 ## Ergebnis nach Gruppe
 
@@ -14,7 +14,7 @@
 | Russische Serien | 4 | 0 |
 | Russische Klassik | 5 | 0 |
 | Russische Musik | 10 | 0 |
-| Deutsche Sender | 40 | 23 |
+| Deutsche Sender | 38 | 25 |
 | Deutsche Serien | 5 | 1 |
 | Deutsche Klassik | 16 | 10 |
 | Deutsche Musik | 16 | 0 |
@@ -35,12 +35,14 @@
 - **MDR HD** (Deutsche Sender) — HTTP 403
 - **rbb HD** (Deutsche Sender) — HTTP 403
 - **WELT HD** (Deutsche Sender) — HTTP 403
+- **DMAX** (Deutsche Sender) — Zeitüberschreitung
 - **Radio Bremen TV HD** (Deutsche Sender) — HTTP 403
 - **ZDF HD (2)** (Deutsche Sender) — HTTP 403
 - **SAT.1 HD (2)** (Deutsche Sender) — Zeitüberschreitung
 - **arte HD (2)** (Deutsche Sender) — HTTP 403
 - **3sat HD (2)** (Deutsche Sender) — HTTP 403
 - **phoenix HD (2)** (Deutsche Sender) — HTTP 403
+- **ZDFneo HD (2)** (Deutsche Sender) — Zeitüberschreitung
 - **ZDFinfo HD (2)** (Deutsche Sender) — HTTP 403
 - **ONE HD (2)** (Deutsche Sender) — HTTP 403
 - **MDR HD (2)** (Deutsche Sender) — HTTP 403
