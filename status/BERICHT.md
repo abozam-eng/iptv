@@ -1,19 +1,19 @@
 # Stream-Bericht
 
-**Datum:** 08.11.2026, 19:25 UTC
+**Datum:** 09.11.2026, 23:43 UTC
 
-**Geprüft:** 276 Sender · **OK:** 234 · **Fehler:** 42
+**Geprüft:** 270 Sender · **OK:** 232 · **Fehler:** 38
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 55 | 4 |
+| Russische Sender | 53 | 2 |
 | Comedy | 15 | 0 |
-| Russische Filme | 36 | 2 |
+| Russische Filme | 37 | 0 |
 | Russische Serien | 4 | 0 |
 | Russische Klassik | 5 | 0 |
-| Russische Musik | 12 | 0 |
+| Russische Musik | 11 | 0 |
 | Deutsche Sender | 38 | 25 |
 | Deutsche Serien | 5 | 1 |
 | Deutsche Klassik | 16 | 10 |
@@ -24,11 +24,7 @@
 ## Fehlerhafte Sender
 
 - **Первый канал HD** (Russische Sender) — HTTP 410
-- **Матч! Игра HD (2)** (Russische Sender) — Zeitüberschreitung
-- **Матч! Страна HD (2)** (Russische Sender) — Zeitüberschreitung
-- **Матч! Футбол 2 HD (2)** (Russische Sender) — Zeitüberschreitung
-- **Кинопремьера HD** (Russische Filme) — HTTP 404
-- **City Eden KinoKlassika HD** (Russische Filme) — HTTP 503
+- **ТНТ4 HD** (Russische Sender) — HTTP 503
 - **ZDF HD** (Deutsche Sender) — HTTP 403
 - **arte HD** (Deutsche Sender) — HTTP 403
 - **3sat HD** (Deutsche Sender) — HTTP 403
