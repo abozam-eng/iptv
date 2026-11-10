@@ -6,7 +6,7 @@ http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" group-title="Russische Sender",Первый канал HD
 http://river-3-370.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NJsyqqPcoXd1IlleRGIvfQ/1793730498/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD
-http://flussonic.linkintel.ru/ntv/index.m3u8
+http://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=http
 #EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Russische Sender",СТС HD
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD
@@ -26,7 +26,7 @@ http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-name="Россия К HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_k.png" group-title="Russische Sender",Россия К HD
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-name="ТВ Центр HD" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Карусель" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png" group-title="Russische Sender",Карусель
 http://stream1.cinerama.uz/1034/index.m3u8
 #EXTINF:-1 tvg-name="ОТР HD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="Russische Sender",ОТР HD
@@ -78,13 +78,15 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Домашний HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png" group-title="Russische Sender",Домашний HD (2)
 http://stream1.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 tvg-name="НТВ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD (2)
-http://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=http
+https://cdn.ntv.ru/ntv-msk_hd/index.m3u8
 #EXTINF:-1 tvg-name="ТНТ HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png" group-title="Russische Sender",ТНТ HD (2)
 http://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=http
 #EXTINF:-1 tvg-name="Gags Network (2)" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Russische Sender",Gags Network (2)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-name="Звезда HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/zvezda.png" group-title="Russische Sender",Звезда HD (2)
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВ Центр HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/tv_tsentr.png" group-title="Russische Sender",ТВ Центр HD (2)
+http://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-name="Мир HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/mir.png" group-title="Russische Sender",Мир HD (2)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="Суббота! HD (2)" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png" group-title="Russische Sender",Суббота! HD (2)
@@ -133,8 +135,6 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-name="South Park (2)" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" group-title="Comedy",South Park (2)
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-name="MTV Ridiculousness (2)" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" group-title="Comedy",MTV Ridiculousness (2)
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-name="Dry Bar Comedy (2)" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy (2)
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SNL Vault (2)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault (2)
@@ -251,6 +251,8 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 http://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
+https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
