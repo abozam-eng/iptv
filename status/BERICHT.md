@@ -1,8 +1,8 @@
 # Stream-Bericht
 
-**Datum:** 10.11.2026, 21:13 UTC
+**Datum:** 11.11.2026, 21:47 UTC
 
-**Geprüft:** 271 Sender · **OK:** 232 · **Fehler:** 39
+**Geprüft:** 270 Sender · **OK:** 232 · **Fehler:** 38
 
 ## Ergebnis nach Gruppe
 
@@ -13,7 +13,7 @@
 | Russische Filme | 37 | 0 |
 | Russische Serien | 4 | 0 |
 | Russische Klassik | 5 | 0 |
-| Russische Musik | 11 | 1 |
+| Russische Musik | 11 | 0 |
 | Deutsche Sender | 38 | 25 |
 | Deutsche Serien | 5 | 1 |
 | Deutsche Klassik | 16 | 10 |
@@ -25,7 +25,6 @@
 
 - **Первый канал HD** (Russische Sender) — HTTP 410
 - **ОТР HD** (Russische Sender) — Zeitüberschreitung
-- **Bridge Deluxe HD (2)** (Russische Musik) — Zeitüberschreitung
 - **ZDF HD** (Deutsche Sender) — HTTP 403
 - **arte HD** (Deutsche Sender) — HTTP 403
 - **3sat HD** (Deutsche Sender) — HTTP 403
@@ -44,7 +43,7 @@
 - **arte HD (2)** (Deutsche Sender) — HTTP 403
 - **3sat HD (2)** (Deutsche Sender) — HTTP 403
 - **phoenix HD (2)** (Deutsche Sender) — HTTP 403
-- **ZDFneo HD (2)** (Deutsche Sender) — Zeitüberschreitung
+- **ZDFneo HD (2)** (Deutsche Sender) — HTTP 403
 - **ZDFinfo HD (2)** (Deutsche Sender) — HTTP 403
 - **ONE HD (2)** (Deutsche Sender) — HTTP 403
 - **MDR HD (2)** (Deutsche Sender) — HTTP 403
