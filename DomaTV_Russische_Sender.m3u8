@@ -251,8 +251,6 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 http://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-name="МузСоюз HD (2)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Russische Musik",МузСоюз HD (2)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-name="Bridge Deluxe HD (2)" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Russische Musik",Bridge Deluxe HD (2)
-https://vits.tv/stream/15/Bridge_TV_Deluxe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Stingray Classica HD (2)" tvg-logo="https://i.imgur.com/bLjmQTU.png" group-title="Russische Musik",Stingray Classica HD (2)
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutsche Sender",Das Erste HD
@@ -348,7 +346,7 @@ http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24 HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="Deutsche Sender",tagesschau24 HD (2)
 http://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png" group-title="Deutsche Sender",ZDFneo HD (2)
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png" group-title="Deutsche Sender",ZDFinfo HD (2)
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ONE HD (2)" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png" group-title="Deutsche Sender",ONE HD (2)
