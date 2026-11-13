@@ -1,30 +1,29 @@
 # Stream-Bericht
 
-**Datum:** 12.11.2026, 21:47 UTC
+**Datum:** 13.11.2026, 21:16 UTC
 
-**Geprüft:** 270 Sender · **OK:** 232 · **Fehler:** 38
+**Geprüft:** 289 Sender · **OK:** 256 · **Fehler:** 33
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 54 | 2 |
-| Comedy | 14 | 0 |
-| Russische Filme | 37 | 0 |
-| Russische Serien | 4 | 0 |
-| Russische Klassik | 5 | 0 |
+| Russische Sender | 56 | 0 |
+| Comedy | 15 | 0 |
 | Russische Musik | 11 | 0 |
-| Deutsche Sender | 38 | 25 |
-| Deutsche Serien | 5 | 1 |
-| Deutsche Klassik | 16 | 10 |
+| Deutsche Sender | 38 | 24 |
+| Deutsche Serien | 5 | 0 |
+| Deutsche Klassik | 16 | 9 |
 | Deutsche Musik | 16 | 0 |
 | Panorama HD | 23 | 0 |
 | 4K | 9 | 0 |
+| Russische Filme | 54 | 0 |
+| Russische Serien | 4 | 0 |
+| Russische Klassik | 5 | 0 |
+| 18+ | 4 | 0 |
 
 ## Fehlerhafte Sender
 
-- **Первый канал HD** (Russische Sender) — HTTP 410
-- **ОТР HD** (Russische Sender) — Zeitüberschreitung
 - **ZDF HD** (Deutsche Sender) — HTTP 403
 - **arte HD** (Deutsche Sender) — HTTP 403
 - **3sat HD** (Deutsche Sender) — HTTP 403
@@ -36,7 +35,6 @@
 - **MDR HD** (Deutsche Sender) — HTTP 403
 - **rbb HD** (Deutsche Sender) — HTTP 403
 - **WELT HD** (Deutsche Sender) — HTTP 403
-- **DMAX** (Deutsche Sender) — Zeitüberschreitung
 - **Radio Bremen TV HD** (Deutsche Sender) — HTTP 403
 - **ZDF HD (2)** (Deutsche Sender) — HTTP 403
 - **SAT.1 HD (2)** (Deutsche Sender) — Zeitüberschreitung
@@ -50,13 +48,11 @@
 - **rbb HD (2)** (Deutsche Sender) — HTTP 403
 - **WELT HD (2)** (Deutsche Sender) — HTTP 401
 - **Radio Bremen TV HD (2)** (Deutsche Sender) — HTTP 403
-- **Pluto TV Historische Serien HD** (Deutsche Serien) — HTTP 404
 - **3sat HD** (Deutsche Klassik) — HTTP 403
 - **arte HD** (Deutsche Klassik) — HTTP 403
 - **MDR HD** (Deutsche Klassik) — HTTP 403
 - **SWR HD** (Deutsche Klassik) — HTTP 403
 - **rbb HD** (Deutsche Klassik) — HTTP 403
-- **Pluto TV Historische Serien HD** (Deutsche Klassik) — HTTP 404
 - **3sat HD (2)** (Deutsche Klassik) — HTTP 403
 - **arte HD (2)** (Deutsche Klassik) — HTTP 403
 - **MDR HD (2)** (Deutsche Klassik) — HTTP 403
