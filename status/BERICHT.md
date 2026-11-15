@@ -1,8 +1,8 @@
 # Stream-Bericht
 
-**Datum:** 14.11.2026, 19:49 UTC
+**Datum:** 15.11.2026, 20:13 UTC
 
-**Geprüft:** 289 Sender · **OK:** 256 · **Fehler:** 33
+**Geprüft:** 289 Sender · **OK:** 255 · **Fehler:** 34
 
 ## Ergebnis nach Gruppe
 
@@ -17,7 +17,7 @@
 | Deutsche Musik | 16 | 0 |
 | Panorama HD | 23 | 0 |
 | 4K | 9 | 0 |
-| Russische Filme | 54 | 0 |
+| Russische Filme | 53 | 1 |
 | Russische Serien | 4 | 0 |
 | Russische Klassik | 5 | 0 |
 | 18+ | 4 | 0 |
@@ -57,6 +57,7 @@
 - **arte HD (2)** (Deutsche Klassik) — HTTP 403
 - **MDR HD (2)** (Deutsche Klassik) — HTTP 403
 - **rbb HD (2)** (Deutsche Klassik) — HTTP 403
+- **.red HD** (Russische Filme) — HTTP 404
 
 ---
 
