@@ -1,8 +1,8 @@
 # Stream-Bericht
 
-**Datum:** 19.11.2026, 22:36 UTC
+**Datum:** 20.11.2026, 22:10 UTC
 
-**Geprüft:** 289 Sender · **OK:** 207 · **Fehler:** 82
+**Geprüft:** 289 Sender · **OK:** 208 · **Fehler:** 81
 
 ## Ergebnis nach Gruppe
 
@@ -17,7 +17,7 @@
 | Deutsche Musik | 15 | 1 |
 | Panorama HD | 19 | 4 |
 | 4K | 8 | 1 |
-| Russische Filme | 27 | 27 |
+| Russische Filme | 28 | 26 |
 | Russische Serien | 3 | 1 |
 | Russische Klassik | 5 | 0 |
 | 18+ | 4 | 0 |
@@ -79,7 +79,6 @@
 - **Travel Channel HD (2)** (Panorama HD) — HTTP 403
 - **Insight TV 4K** (4K) — HTTP 403
 - **.black HD** (Russische Filme) — HTTP 403
-- **.red HD** (Russische Filme) — HTTP 404
 - **.red HD (2)** (Russische Filme) — HTTP 403
 - **Amedia 1 HD** (Russische Filme) — HTTP 403
 - **Amedia Hit HD** (Russische Filme) — HTTP 403
