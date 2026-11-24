@@ -1,14 +1,14 @@
 # Stream-Bericht
 
-**Datum:** 24.11.2026, 02:02 UTC
+**Datum:** 24.11.2026, 23:47 UTC
 
-**Geprüft:** 289 Sender · **OK:** 194 · **Fehler:** 95
+**Geprüft:** 289 Sender · **OK:** 196 · **Fehler:** 93
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 41 | 15 |
+| Russische Sender | 40 | 16 |
 | Comedy | 15 | 0 |
 | Russische Musik | 7 | 4 |
 | Deutsche Sender | 38 | 24 |
@@ -17,7 +17,7 @@
 | Deutsche Musik | 15 | 1 |
 | Panorama HD | 15 | 8 |
 | 4K | 8 | 1 |
-| Russische Filme | 22 | 32 |
+| Russische Filme | 25 | 29 |
 | Russische Serien | 3 | 1 |
 | Russische Klassik | 5 | 0 |
 | 18+ | 4 | 0 |
@@ -35,7 +35,8 @@
 - **Матч! Страна HD** (Russische Sender) — HTTP 403
 - **Матч! Футбол 2 HD** (Russische Sender) — HTTP 403
 - **Матч! Премьер** (Russische Sender) — HTTP 403
-- **360 HD** (Russische Sender) — HTTP 502
+- **Eurosport 1 HD** (Russische Sender) — Zeitüberschreitung
+- **RU.TV HD** (Russische Sender) — HTTP 503
 - **История HD** (Russische Sender) — HTTP 403
 - **Домашний HD (2)** (Russische Sender) — Verbindung fehlgeschlagen
 - **viju+ Sport HD (2)** (Russische Sender) — HTTP 403
@@ -87,14 +88,11 @@
 - **National Geographic Wild HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
 - **Insight TV 4K** (4K) — HTTP 403
 - **.black HD** (Russische Filme) — HTTP 403
+- **.red HD** (Russische Filme) — Zeitüberschreitung
 - **.red HD (2)** (Russische Filme) — HTTP 403
 - **Amedia 1 HD** (Russische Filme) — HTTP 403
 - **Amedia Hit HD** (Russische Filme) — HTTP 403
 - **Blokbaster HD** (Russische Filme) — HTTP 403
-- **City Eden KinoAsia HD** (Russische Filme) — Zeitüberschreitung
-- **City Eden KinoDetektiv HD** (Russische Filme) — Zeitüberschreitung
-- **City Eden KinoFantastika HD** (Russische Filme) — Zeitüberschreitung
-- **City Eden KinoMistika HD** (Russische Filme) — Zeitüberschreitung
 - **Dom Kino Premium HD** (Russische Filme) — HTTP 403
 - **Dorama HD** (Russische Filme) — HTTP 403
 - **Hit HD** (Russische Filme) — HTTP 403
