@@ -1,23 +1,23 @@
 # Stream-Bericht
 
-**Datum:** 22.11.2026, 20:57 UTC
+**Datum:** 24.11.2026, 02:02 UTC
 
-**Geprüft:** 289 Sender · **OK:** 208 · **Fehler:** 81
+**Geprüft:** 289 Sender · **OK:** 194 · **Fehler:** 95
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 45 | 11 |
+| Russische Sender | 41 | 15 |
 | Comedy | 15 | 0 |
 | Russische Musik | 7 | 4 |
 | Deutsche Sender | 38 | 24 |
 | Deutsche Serien | 5 | 0 |
 | Deutsche Klassik | 16 | 9 |
 | Deutsche Musik | 15 | 1 |
-| Panorama HD | 19 | 4 |
+| Panorama HD | 15 | 8 |
 | 4K | 8 | 1 |
-| Russische Filme | 28 | 26 |
+| Russische Filme | 22 | 32 |
 | Russische Serien | 3 | 1 |
 | Russische Klassik | 5 | 0 |
 | 18+ | 4 | 0 |
@@ -27,13 +27,17 @@
 - **Домашний HD** (Russische Sender) — HTTP 403
 - **СТС HD** (Russische Sender) — HTTP 403
 - **ТНТ HD** (Russische Sender) — HTTP 403
+- **Россия 24** (Russische Sender) — Verbindung fehlgeschlagen
 - **Gagsnetwork** (Russische Sender) — HTTP 403
+- **Карусель** (Russische Sender) — Verbindung fehlgeschlagen
 - **Суббота! HD** (Russische Sender) — HTTP 403
 - **Матч! Игра HD** (Russische Sender) — HTTP 403
 - **Матч! Страна HD** (Russische Sender) — HTTP 403
 - **Матч! Футбол 2 HD** (Russische Sender) — HTTP 403
 - **Матч! Премьер** (Russische Sender) — HTTP 403
+- **360 HD** (Russische Sender) — HTTP 502
 - **История HD** (Russische Sender) — HTTP 403
+- **Домашний HD (2)** (Russische Sender) — Verbindung fehlgeschlagen
 - **viju+ Sport HD (2)** (Russische Sender) — HTTP 403
 - **Classic Music HD** (Russische Musik) — HTTP 403
 - **Russian MusicBox HD** (Russische Musik) — HTTP 403
@@ -76,18 +80,28 @@
 - **Живая природа HD** (Panorama HD) — HTTP 403
 - **Travelxp HD** (Panorama HD) — HTTP 403
 - **Моя стихия HD** (Panorama HD) — HTTP 403
+- **Живая природа HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
 - **Travel Channel HD (2)** (Panorama HD) — HTTP 403
+- **viju Explore HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
+- **Animal Planet HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
+- **National Geographic Wild HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
 - **Insight TV 4K** (4K) — HTTP 403
 - **.black HD** (Russische Filme) — HTTP 403
 - **.red HD (2)** (Russische Filme) — HTTP 403
 - **Amedia 1 HD** (Russische Filme) — HTTP 403
 - **Amedia Hit HD** (Russische Filme) — HTTP 403
 - **Blokbaster HD** (Russische Filme) — HTTP 403
+- **City Eden KinoAsia HD** (Russische Filme) — Zeitüberschreitung
+- **City Eden KinoDetektiv HD** (Russische Filme) — Zeitüberschreitung
+- **City Eden KinoFantastika HD** (Russische Filme) — Zeitüberschreitung
+- **City Eden KinoMistika HD** (Russische Filme) — Zeitüberschreitung
 - **Dom Kino Premium HD** (Russische Filme) — HTTP 403
 - **Dorama HD** (Russische Filme) — HTTP 403
 - **Hit HD** (Russische Filme) — HTTP 403
 - **viju TV1000 HD** (Russische Filme) — HTTP 403
+- **viju TV1000 action HD** (Russische Filme) — Verbindung fehlgeschlagen
 - **viju+ Comedy HD** (Russische Filme) — HTTP 403
+- **viju+ Comedy HD (2)** (Russische Filme) — Verbindung fehlgeschlagen
 - **viju+ Premiere HD** (Russische Filme) — HTTP 403
 - **viju+ Serial HD** (Russische Filme) — HTTP 403
 - **Еврокино** (Russische Filme) — HTTP 403
