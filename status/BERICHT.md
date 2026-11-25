@@ -1,14 +1,14 @@
 # Stream-Bericht
 
-**Datum:** 24.11.2026, 23:47 UTC
+**Datum:** 25.11.2026, 23:29 UTC
 
-**Geprüft:** 289 Sender · **OK:** 196 · **Fehler:** 93
+**Geprüft:** 289 Sender · **OK:** 195 · **Fehler:** 94
 
 ## Ergebnis nach Gruppe
 
 | Gruppe | OK | Fehler |
 | --- | ---: | ---: |
-| Russische Sender | 40 | 16 |
+| Russische Sender | 41 | 15 |
 | Comedy | 15 | 0 |
 | Russische Musik | 7 | 4 |
 | Deutsche Sender | 38 | 24 |
@@ -17,7 +17,7 @@
 | Deutsche Musik | 15 | 1 |
 | Panorama HD | 15 | 8 |
 | 4K | 8 | 1 |
-| Russische Filme | 25 | 29 |
+| Russische Filme | 23 | 31 |
 | Russische Serien | 3 | 1 |
 | Russische Klassik | 5 | 0 |
 | 18+ | 4 | 0 |
@@ -35,8 +35,7 @@
 - **Матч! Страна HD** (Russische Sender) — HTTP 403
 - **Матч! Футбол 2 HD** (Russische Sender) — HTTP 403
 - **Матч! Премьер** (Russische Sender) — HTTP 403
-- **Eurosport 1 HD** (Russische Sender) — Zeitüberschreitung
-- **RU.TV HD** (Russische Sender) — HTTP 503
+- **viju+ Sport HD** (Russische Sender) — Verbindung fehlgeschlagen
 - **История HD** (Russische Sender) — HTTP 403
 - **Домашний HD (2)** (Russische Sender) — Verbindung fehlgeschlagen
 - **viju+ Sport HD (2)** (Russische Sender) — HTTP 403
@@ -88,7 +87,6 @@
 - **National Geographic Wild HD (2)** (Panorama HD) — Verbindung fehlgeschlagen
 - **Insight TV 4K** (4K) — HTTP 403
 - **.black HD** (Russische Filme) — HTTP 403
-- **.red HD** (Russische Filme) — Zeitüberschreitung
 - **.red HD (2)** (Russische Filme) — HTTP 403
 - **Amedia 1 HD** (Russische Filme) — HTTP 403
 - **Amedia Hit HD** (Russische Filme) — HTTP 403
@@ -117,6 +115,9 @@
 - **Премиальное HD** (Russische Filme) — HTTP 403
 - **Шокирующее HD** (Russische Filme) — HTTP 403
 - **viju+ Serial HD** (Russische Serien) — HTTP 403
+- **viju TV1000 novella HD** (Russische Filme) — Verbindung fehlgeschlagen
+- **viju TV1000 romantica HD** (Russische Filme) — Verbindung fehlgeschlagen
+- **Наш Кинопоказ HD** (Russische Filme) — Verbindung fehlgeschlagen
 
 ---
 
