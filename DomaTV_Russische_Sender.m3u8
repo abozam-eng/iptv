@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-country="RU" tvg-name="Россия 1 HD" tvg-logo="https://ngrch.github.io/iptv/logos/rossiya_1.png" group-title="Russische Sender",Россия 1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-name="Домашний HD" tvg-logo="https://ngrch.github.io/iptv/logos/domashniy.png" group-title="Russische Sender",Домашний HD
-http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+# TOT: http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-country="RU" tvg-name="Первый канал HD" tvg-logo="https://ngrch.github.io/iptv/logos/perviy.png" group-title="Russische Sender",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Sdew82L2cqXCdrJaKhXASQ&e=2094576482&scheme=https
 #EXTINF:-1 tvg-country="RU" tvg-name="НТВ HD" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png" group-title="Russische Sender",НТВ HD
